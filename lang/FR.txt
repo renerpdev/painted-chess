@@ -1,0 +1,123 @@
+Menu Démarrer - ÉCHECS PEINTS 1.0
+Remplissez toutes les données du jeu
+Morceaux blancs
+Pièces noires
+Caractéristiques du conseil
+Effacer les boîtes:
+Dark Boxes:
+Nom:
+Couleur:
+Début
+Informatique
+Il ne peut y avoir aucune couleur égale
+Il ne peut y avoir AUCUN NOM ÉGAL
+Il ne peut y avoir de champs vides!
+Avis
+Montrer les mouvements possibles
+Archive
+Nouveau jeu
+Enregistrer le jeu
+Charger le jeu
+sortir
+L'aide
+Près de nous
+Tutoriel de jeu
+Morceaux
+Morceaux de nourriture
+Historique d'exportation
+Si vous quittez le jeu, les données non sauvegardées seront perdues
+Quitter le jeu ...
+ÉCHECS PEINTS 1.0
+Histoire des échecs
+Cheval
+Tour
+Dame
+Peon
+Le roi
+Bishop
+Boîte menacée:
+Boîte vide:
+Boîte sélectionnée:
+Le jeu a été enregistré avec succès
+L'enregistreur est vide
+Charger un jeu effacera les données non sauvegardées.
+Charger un nouvel article
+Impossible de charger le fichier
+Erreur
+Une erreur s'est produite lors de la tentative d'enregistrement du fichier.
+Choisissez une pièce à changer
+Roi de
+est dans JAKE
+Si une nouvelle partie commence, les données non sauvegardées seront perdues
+Game Over
+Les deux joueurs n'ont que le roi
+Utilisez les pièces d'origine
+Il n'y a plus de mouvements possibles
+Jeu de société
+tu as perdu la partie
+tu as gagné le jeu
+Impossible de se connecter
+JAKE MATE
+Nouveau jeu
+Fin du jeu
+Créateur du jeu:
+Compagnie:
+E-mail:
+Téléphone:
+a le roi noyé
+Rouge
+Rejoindre le serveur
+Créer un serveur
+Historique de chargement
+Impossible de se connecter
+Jouer
+Jake
+Mauvais format de l'heure
+Spécifiez une heure de début [0 - 90] minutes
+OK couleur
+Heure de départ:
+Planche inversée
+Heure de départ terminée
+Multijoueur
+Menu de démarrage
+Aller au menu de démarrage
+Si vous revenez au menu Démarrer, les données non sauvegardées seront perdues
+Ecrivez un nom plus court [1-12]
+Si vous redémarrez le jeu, les données non sauvegardées seront perdues
+Redémarrer le jeu
+Pause
+continuer
+(JOUEZ EN PAUSE ...)
+FÉLICITATIONS
+MALCHANCE
+Êtes-vous sûr de vouloir partir?
+Serveur IP:
+Connecter
+IP est incorrect
+Hôte:
+Base de données:
+Nom d'utilisateur:
+Mot de passe:
+Port:
+Statut de connexion
+Vous avez rejoint le serveur
+Le serveur a été créé
+Salle d'attente
+Serveur:
+Invité:
+Il n'y a pas de jeu créé sur ce serveur
+Connexion interrompue
+Créer
+Si vous quittez la connexion sera perdue
+Voulez-vous recommencer le jeu?
+Êtes-vous sûr de vouloir vous déconnecter?
+CLIENT
+SERVEUR
+Je ne pourrais pas avoir le même nom que le serveur
+Crédits
+Les concepteurs:
+Programmeurs:
+Chercheurs:
+Testeurs:
+Tous droits réservés
+ton roi est en JAKE

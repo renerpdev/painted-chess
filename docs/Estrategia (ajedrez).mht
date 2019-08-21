@@ -1,0 +1,990 @@
+From: <Saved by Mozilla 5.0 (Windows)>
+Subject: Estrategia (ajedrez)
+Date: Thu, 12 Mar 2009 18:37:58 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_865E6D8C.D09B1D47"
+X-MAF-Information: Produced By MAF V3.0.1
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Estrategia%20(ajedrez).html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" xml:lang=3D"es" dir=3D"ltr" lang=3D"es"><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8"><s=
+tyle><!--
+
+/* Effective stylesheet produced by snapshot save */
+
+#kiwixtoolbar { position: fixed; padding: 4px 15px 5px; margin-left: -10px;=
+ margin-right: -10px; left: 0px; right: 0px; top: 10px; z-index: 100; }
+
+#kiwixhome { margin: 0px; float: left; }
+
+#kiwixlibrary { margin: 0px; float: left; }
+
+#kiwixsearchbox { margin: 0px; float: right; }
+
+#kiwixsearch { margin: 0px; float: right; }
+
+--></style><link type=3D"text/css" href=3D"urn:snapshot-58BB0654:http://wik=
+ipedia.uho.edu.cu/skin/jqueryui/css/smoothness/jquery-ui.custom.css" rel=3D=
+"Stylesheet">
+<script type=3D"text/javascript" src=3D"urn:snapshot-314DD865:http://wikipe=
+dia.uho.edu.cu/skin/jqueryui/js/jquery.min.js"></script>
+<script type=3D"text/javascript" src=3D"urn:snapshot-2173D320:http://wikipe=
+dia.uho.edu.cu/skin/jqueryui/js/jquery-ui.custom.min.js"></script>
+
+		<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+		<title>Estrategia (ajedrez)</title>
+		<link rel=3D"stylesheet" href=3D"urn:snapshot-D3D9D6BD:http://wikipedia.u=
+ho.edu.cu/wikipedia_es_all_03_2012/-/shared.css" media=3D"screen">
+<link rel=3D"stylesheet" href=3D"urn:snapshot-5FD48D42:http://wikipedia.uho=
+.edu.cu/wikipedia_es_all_03_2012/-/commonPrint.css" media=3D"print">
+<link rel=3D"stylesheet" href=3D"urn:snapshot-27CD5562:http://wikipedia.uho=
+.edu.cu/wikipedia_es_all_03_2012/-/main.css" media=3D"screen">
+<link rel=3D"stylesheet" href=3D"urn:snapshot-6F5438B6:http://wikipedia.uho=
+.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7ECommon_0.css">
+<link rel=3D"stylesheet" href=3D"urn:snapshot-B8B57BE3:http://wikipedia.uho=
+.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7EPrint.css" media=3D"print">
+<link rel=3D"stylesheet" href=3D"urn:snapshot-AFBBEB43:http://wikipedia.uho=
+.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7EKiwixOffline_0.css">
+
+		<script><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+		<script type=3D"text/javascript" src=3D"urn:snapshot-9CC45E90:http://wiki=
+pedia.uho.edu.cu/wikipedia_es_all_03_2012/-/wikibits.js"></script>
+		<script type=3D"text/javascript" src=3D"urn:snapshot-D020240D:http://wiki=
+pedia.uho.edu.cu/wikipedia_es_all_03_2012/-/gen_0.js"></script>
+	</head>
+<body class=3D"mediawiki ltr ns-0 ns-subject page-Andorra skin-KiwixOffline=
+" style=3D"margin: 0 1em 1em 1em; background: #FFFFFF"><script><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+
+<span id=3D"kiwixtoolbar" class=3D"ui-widget-header ui-corner-all">
+  <button id=3D"kiwixlibrary" onclick=3D"">Library</button>
+  <button id=3D"kiwixhome" onclick=3D"">Home</button>
+  <form method=3D"GET" action=3D"http://wikipedia.uho.edu.cu/search" id=3D"=
+kiwixsearchform">
+    <input name=3D"content" value=3D"wikipedia_es_all_03_2012" type=3D"hidd=
+en">
+    <input id=3D"kiwixsearch" value=3D"Search" type=3D"submit">
+    <input id=3D"kiwixsearchbox" name=3D"pattern">
+  </form>
+</span>
+<div style=3D"display: block; height: 45px;"></div>
+
+	<div id=3D"globalWrapper"><div id=3D"bodyContent">
+		<a name=3D"top" id=3D"top"></a>
+		<h1 class=3D"firstHeading">Estrategia (ajedrez)</h1>
+			<p>La <b>estrategia de ajedrez</b> tiene que ver con la evaluaci=C3=B3n=
+ de posiciones de <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_0=
+3_2012/A/Ajedrez.html" title=3D"Ajedrez">ajedrez</a> y con la elaboraci=C3=
+=B3n de objetivos y t=C3=A1cticas a largo plazo para los movimientos futuro=
+s. Durante la evaluaci=C3=B3n, un jugador tiene que tener en cuenta el valo=
+r de las piezas en el tablero, la <a href=3D"http://wikipedia.uho.edu.cu/wi=
+kipedia_es_all_03_2012/A/Estructura%20de%20peones.html" title=3D"Estructura=
+ de peones">estructura de peones</a>, la seguridad del rey, la posici=C3=B3=
+n y control de casillas clave y de grupos de casillas (diagonales, columnas=
+ abiertas, debilidad de las casillas blancas o negras, etc).</p>
+<p>La estrategia m=C3=A1s b=C3=A1sica es contar el valor total de las pieza=
+s de ambos bandos. Los puntos con los que se valoran estas piezas est=C3=A1=
+n basados en la experiencia. Normalmente los <a href=3D"http://wikipedia.uh=
+o.edu.cu/wikipedia_es_all_03_2012/A/Pe%C3%B3n%20%28ajedrez%29.html" title=
+=3D"Pe=C3=B3n (ajedrez)">peones</a> se considera que valen un punto, los <a=
+ href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Caballo%20%=
+28ajedrez%29.html" title=3D"Caballo (ajedrez)">caballos</a> y <a href=3D"ht=
+tp://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Alfil%20%28ajedrez%29.=
+html" title=3D"Alfil (ajedrez)" class=3D"mw-redirect">alfiles</a> tres, las=
+ <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Torre%20=
+%28ajedrez%29.html" title=3D"Torre (ajedrez)">torres</a> cinco y la <a href=
+=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Dama%20%28ajedre=
+z%29.html" title=3D"Dama (ajedrez)">dama</a> nueve, la diferencia entre una=
+ torre y una pieza menor (caballo o alfil) se denomina <a href=3D"http://wi=
+kipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Calidad%20%28ajedrez%29.html"=
+ title=3D"Calidad (ajedrez)">calidad</a>. El valor equivalente del <a href=
+=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Rey%20%28ajedrez=
+%29.html" title=3D"Rey (ajedrez)">rey</a> en el <a href=3D"http://wikipedia=
+.uho.edu.cu/wikipedia_es_all_03_2012/A/Final%20%28ajedrez%29.html" title=3D=
+"Final (ajedrez)">final</a> es cuatro puntos. Estos valores b=C3=A1sicos so=
+n modificados por otros factores como la <i>posici=C3=B3n de las piezas</i>=
+ (p.ej. los peones avanzados normalmente son m=C3=A1s valiosos que estos en=
+ la posici=C3=B3n inicial), la <i>coordinaci=C3=B3n entre piezas</i> (p.ej.=
+ un par de alfiles normalmente se coordinan mejor que un alfil y un caballo=
+) o el <i>tipo de posici=C3=B3n</i> (los caballos son generalmente mejores=
+ en posiciones cerradas con muchos peones mientras que los alfiles son m=C3=
+=A1s poderosos en posiciones abiertas).</p>
+<p>Otro factor importante en la evaluaci=C3=B3n de posiciones de ajedrez es=
+ la <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Estru=
+ctura%20de%20peones.html" title=3D"Estructura de peones">estructura de peon=
+es</a> o esqueleto de peones. Como los peones son las piezas m=C3=A1s inm=
+=C3=B3viles del ajedrez, la estructura de peones es relativamente est=C3=A1=
+tica y en gran manera determina la naturaleza estrat=C3=A9gica de la posici=
+=C3=B3n. Las debilidades en la estructura de peones, como los <a href=3D"ht=
+tp://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Pe%C3%B3n%20aislado.ht=
+ml" title=3D"Pe=C3=B3n aislado" class=3D"mw-redirect">peones aislados</a>,=
+ <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Peones%2=
+0doblados.html" title=3D"Peones doblados">doblados</a> o <a href=3D"http://=
+wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Pe%C3%B3n%20retrasado.html"=
+ title=3D"Pe=C3=B3n retrasado">retrasados</a> y los agujeros o <i>holes</i>=
+, una vez creados, normalmente la debilidad es permanente. Por tanto, hay=
+ que tener un cuidado especial para evitar dichas debilidades a menos que=
+ se compensen por otras ventajas, como la posibilidad de llevar a cabo un=
+ ataque.</p>
+<table id=3D"toc" class=3D"toc">
+<tbody><tr>
+<td>
+<div id=3D"toctitle">
+<h2>Contenido</h2>
+ <span class=3D"toctoggle">[<a href=3D"#" class=3D"internal" id=3D"toggleli=
+nk">ocultar</a>]</span></div>
+<ul>
+<li class=3D"toclevel-1 tocsection-1"><a href=3D"#Valor_de_las_piezas"><spa=
+n class=3D"tocnumber">1</span> <span class=3D"toctext">Valor de las piezas<=
+/span></a></li>
+<li class=3D"toclevel-1 tocsection-2"><a href=3D"#Evaluaci.C3.B3n_de_posici=
+ones"><span class=3D"tocnumber">2</span> <span class=3D"toctext">Evaluaci=
+=C3=B3n de posiciones</span></a></li>
+<li class=3D"toclevel-1 tocsection-3"><a href=3D"#Defendiendo_piezas"><span=
+ class=3D"tocnumber">3</span> <span class=3D"toctext">Defendiendo piezas</s=
+pan></a></li>
+<li class=3D"toclevel-1 tocsection-4"><a href=3D"#Cambios_de_piezas"><span=
+ class=3D"tocnumber">4</span> <span class=3D"toctext">Cambios de piezas</sp=
+an></a></li>
+<li class=3D"toclevel-1 tocsection-5"><a href=3D"#Piezas_espec.C3.ADficas">=
+<span class=3D"tocnumber">5</span> <span class=3D"toctext">Piezas espec=C3=
+=ADficas</span></a>
+<ul>
+<li class=3D"toclevel-2 tocsection-6"><a href=3D"#Peones"><span class=3D"to=
+cnumber">5.1</span> <span class=3D"toctext">Peones</span></a></li>
+<li class=3D"toclevel-2 tocsection-7"><a href=3D"#Caballos"><span class=3D"=
+tocnumber">5.2</span> <span class=3D"toctext">Caballos</span></a></li>
+<li class=3D"toclevel-2 tocsection-8"><a href=3D"#Alfiles"><span class=3D"t=
+ocnumber">5.3</span> <span class=3D"toctext">Alfiles</span></a></li>
+<li class=3D"toclevel-2 tocsection-9"><a href=3D"#Torres"><span class=3D"to=
+cnumber">5.4</span> <span class=3D"toctext">Torres</span></a></li>
+<li class=3D"toclevel-2 tocsection-10"><a href=3D"#Dama"><span class=3D"toc=
+number">5.5</span> <span class=3D"toctext">Dama</span></a></li>
+<li class=3D"toclevel-2 tocsection-11"><a href=3D"#Rey"><span class=3D"tocn=
+umber">5.6</span> <span class=3D"toctext">Rey</span></a></li>
+</ul>
+</li>
+<li class=3D"toclevel-1 tocsection-12"><a href=3D"#Citas"><span class=3D"to=
+cnumber">6</span> <span class=3D"toctext">Citas</span></a></li>
+<li class=3D"toclevel-1 tocsection-13"><a href=3D"#V.C3.A9ase_tambi.C3.A9n"=
+><span class=3D"tocnumber">7</span> <span class=3D"toctext">V=C3=A9ase tamb=
+i=C3=A9n</span></a></li>
+<li class=3D"toclevel-1 tocsection-14"><a href=3D"#Lecturas_adicionales"><s=
+pan class=3D"tocnumber">8</span> <span class=3D"toctext">Lecturas adicional=
+es</span></a></li>
+<li class=3D"toclevel-1 tocsection-15"><a href=3D"#Enlaces_externos"><span=
+ class=3D"tocnumber">9</span> <span class=3D"toctext">Enlaces externos</spa=
+n></a></li>
+</ul>
+</td>
+</tr>
+</tbody></table>
+<script type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+<h2><span class=3D"mw-headline" id=3D"Valor_de_las_piezas">Valor de las pie=
+zas</span></h2>
+<p>La ventaja de material se aplica estrat=C3=A9gica y t=C3=A1cticamente.=
+ Generalmente una ventaja de piezas o un conjunto de piezas m=C3=A1s potent=
+es significa m=C3=A1s oportunidades de victoria. Una estrategia fundamental=
+ y una regla t=C3=A1ctica es capturar las piezas del oponente mientras que=
+ se conserva una propia que sea capaz de dar mate, incluso un pe=C3=B3n.</p>
+<p>Los alfiles y los caballos son piezas menores. Un caballo tiene aproxima=
+damente el mismo valor que un alfil, pero menos que una torre. Las torres=
+ y la dama se llaman piezas mayores. Los alfiles son normalmente considerad=
+os como ligeramente superiores a los caballos en posiciones abiertas, espec=
+ialmente hacia el final de la partida cuando muchas de las piezas son captu=
+radas, mientras que los caballos tienen ventaja en posiciones cerradas. La=
+ posesi=C3=B3n de la <i>pareja de alfiles</i> es un arma particularmente po=
+derosa, especialmente si el oponente no la tiene.</p>
+<p>Tres peones son m=C3=A1s =C3=BAtiles que un caballo en el final, pero en=
+ el medio juego un caballo es m=C3=A1s potente. Dos piezas menores son m=C3=
+=A1s fuertes que una sola torre. Dos torres son un poco m=C3=A1s fuertes qu=
+e una dama.</p>
+<p>Un sistema simple para valorar material es:</p>
+<dl>
+<dd>
+<table class=3D"wikitable">
+<tbody><tr>
+<th>Pieza</th>
+<th>Valor</th>
+</tr>
+<tr>
+<td>Pe=C3=B3n</td>
+<td align=3D"center">1</td>
+</tr>
+<tr>
+<td>Alfil</td>
+<td align=3D"center">3</td>
+</tr>
+<tr>
+<td>Caballo</td>
+<td align=3D"center">3</td>
+</tr>
+<tr>
+<td>Torre</td>
+<td align=3D"center">5</td>
+</tr>
+<tr>
+<td>Dama</td>
+<td align=3D"center">9</td>
+</tr>
+<tr>
+<td>Rey</td>
+<td align=3D"center">=E2=88=9E</td>
+</tr>
+</tbody></table>
+</dd>
+</dl>
+<p>Bajo un sistema como =C3=A9ste, dejarse un caballo para ganar una torre=
+ ("ganar la calidad") concede una ventaja equivalente a dos peones. Este si=
+stema por supuesto ignora complicaciones como la posici=C3=B3n actual y la=
+ libertad de las piezas involucradas, pero es un buen punto de partida. En=
+ una posici=C3=B3n abierta, los alfiles ser=C3=A1n m=C3=A1s valiosos que lo=
+s caballos (una pareja de alfiles puede valer 7 puntos o m=C3=A1s en alguna=
+s situaciones). Por el contrario, en una posici=C3=B3n cerrada, los alfiles=
+ valen menos que los caballos. El rey tiene un valor infinito ya que su p=
+=C3=A9rdida causa el fin de la partida.</p>
+<h2><span class=3D"mw-headline" id=3D"Evaluaci.C3.B3n_de_posiciones">Evalua=
+ci=C3=B3n de posiciones</span></h2>
+<p>Si el material de los dos bandos est=C3=A1 equilibrado, el bando que con=
+trole m=C3=A1s espacio en el tablero normalmente tendr=C3=A1 ventaja. M=C3=
+=A1s espacio significa m=C3=A1s opciones, que pueden ser explotadas t=C3=A1=
+ctica y estrat=C3=A9gicamente. Si todas las piezas de uno est=C3=A1n desarr=
+olladas y no hay trucos t=C3=A1cticos o aparentemente ning=C3=BAn plan prom=
+etedor a largo plazo, se podr=C3=ADa intentar encontrar un movimiento que=
+ aumente la influencia de la pieza movida, particularmente en el centro. Si=
+n embargo, en algunas aperturas hipermodernas, un jugador acepta tener meno=
+s espacio durante un periodo de tiempo para desarrollar un ataque en el med=
+io juego. Esta es una caracter=C3=ADsica del <i>ajedrez hipermoderno</i> en=
+ el que el centro no se controla colocando piezas en =C3=A9l, sino controla=
+ndo las casillas centrales a distancia.</p>
+<h2><span class=3D"mw-headline" id=3D"Defendiendo_piezas">Defendiendo pieza=
+s</span></h2>
+<p>Es importante defender las piezas propias incluso si no est=C3=A1n amena=
+zadas directamente, especialmente el <a href=3D"http://wikipedia.uho.edu.cu=
+/wikipedia_es_all_03_2012/A/Rey%20%28ajedrez%29.html" title=3D"Rey (ajedrez=
+)">rey</a>. Esto ayudar=C3=A1 a parar posibles planes de ataque futuros del=
+ oponente. Esta visi=C3=B3n tiene un antecedente en la teor=C3=ADa de <a hr=
+ef=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Aaron%20Nimzow=
+itsch.html" title=3D"Aaron Nimzowitsch" class=3D"mw-redirect">Aaron Nimzowi=
+tsch</a> que se refer=C3=ADa a ello como <i>sobreprotecci=C3=B3n</i>. De fo=
+rma similar, si un jugador reconoce que hay piezas del oponente indefensas,=
+ debe tomar ventaja de la debilidad de estas piezas.</p>
+<h2><span class=3D"mw-headline" id=3D"Cambios_de_piezas">Cambios de piezas<=
+/span></h2>
+<p>Cambiar piezas significa capturar una pieza enemiga y permitir que una=
+ pieza propia del mismo valor sea capturada. Por norma general, el intercam=
+bio de piezas facilita la tarea del defensor que t=C3=ADpicamente tiene men=
+os espacio para operar.</p>
+<p>Los intercambios de piezas normalmente son deseables para un jugador que=
+ tiene una ventaja de material, ya que acerca la posici=C3=B3n al <a href=
+=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Final%20%28ajedr=
+ez%29.html" title=3D"Final (ajedrez)">final</a> y por tanto, deja al oponen=
+te con menos tiempo para recuperar el terreno. En el <a href=3D"http://wiki=
+pedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Final%20%28ajedrez%29.html" tit=
+le=3D"Final (ajedrez)">final</a> incluso una ventaja de un simple pe=C3=B3n=
+ puede decidir la partida.</p>
+<p>Cuando se juega contra jugadores fuertes, muchos principiantes intentan=
+ constantemente cambiar piezas "para simplificar las cosas". Sin embargo,=
+ los jugadores fuertes son a menudo relativamente fuertes en los <a href=3D=
+"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Final%20%28ajedrez%=
+29.html" title=3D"Final (ajedrez)">finales</a>, mientras que los errores so=
+n m=C3=A1s comunes durante el m=C3=A1s complicado <a href=3D"http://wikiped=
+ia.uho.edu.cu/wikipedia_es_all_03_2012/A/Medio%20juego%20%28ajedrez%29.html=
+" title=3D"Medio juego (ajedrez)">medio juego</a>.</p>
+<p>N=C3=B3tese que la expresi=C3=B3n "ganar la <a href=3D"http://wikipedia.=
+uho.edu.cu/wikipedia_es_all_03_2012/A/Calidad%20%28ajedrez%29.html" title=
+=3D"Calidad (ajedrez)">calidad</a>" tiene un especial significado como se=
+ menciona arriba: ganar una <a href=3D"http://wikipedia.uho.edu.cu/wikipedi=
+a_es_all_03_2012/A/Torre%20%28ajedrez%29.html" title=3D"Torre (ajedrez)">to=
+rre</a> por una pieza menor (un <a href=3D"http://wikipedia.uho.edu.cu/wiki=
+pedia_es_all_03_2012/A/Alfil.html" title=3D"Alfil">alfil</a> o un <a href=
+=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Caballo%20%28aje=
+drez%29.html" title=3D"Caballo (ajedrez)">caballo</a>).</p>
+<h2><span class=3D"mw-headline" id=3D"Piezas_espec.C3.ADficas">Piezas espec=
+=C3=ADficas</span></h2>
+<h3><span class=3D"mw-headline" id=3D"Peones">Peones</span></h3>
+<p>En el <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/=
+Final%20%28ajedrez%29.html" title=3D"Final (ajedrez)">final</a>, los <b><a=
+ href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Pe%C3%B3n%2=
+0pasado.html" title=3D"Pe=C3=B3n pasado">peones pasados</a></b> (aquellos=
+ que no pueden ser entorpecidos hacia la <a href=3D"http://wikipedia.uho.ed=
+u.cu/wikipedia_es_all_03_2012/A/Promoci%C3%B3n%20%28ajedrez%29.html" title=
+=3D"Promoci=C3=B3n (ajedrez)">coronaci=C3=B3n</a>) son fuertes, especialmen=
+te si est=C3=A1n avanzados. Un <a href=3D"http://wikipedia.uho.edu.cu/wikip=
+edia_es_all_03_2012/A/Pe%C3%B3n%20pasado.html" title=3D"Pe=C3=B3n pasado">p=
+e=C3=B3n pasado</a> en la sexta fila es pr=C3=A1cticamente tan fuerte como=
+ un <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Cabal=
+lo%20%28ajedrez%29.html" title=3D"Caballo (ajedrez)">caballo</a> o un <a hr=
+ef=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Alfil.html" ti=
+tle=3D"Alfil">alfil</a> y frecuentemente decide las partidas.</p>
+
+<h3><span class=3D"mw-headline" id=3D"Caballos">Caballos</span></h3>
+<p>Los caballos son piezas a las que se persiguen f=C3=A1cilmente con movim=
+ientos de peones. Por tanto, es importante para los caballos estar situados=
+ en "agujeros" en la posici=C3=B3n enemiga donde no puedan ser atacados por=
+ un pe=C3=B3n. Una vez que se identifica un agujero, se deber=C3=A1 realiza=
+r una maniobra para llevar a un caballo a esa ubicaci=C3=B3n. Un caballo en=
+ la quinta fila que no pueda ser atacado por un pe=C3=B3n es una fuerte ven=
+taja y el mismo caballo en la sexta fila es pr=C3=A1cticamente igual que un=
+a torre. A menos que haya una buena raz=C3=B3n para ello, los caballos no=
+ deber=C3=A1n colocarse en el extremo o las esquinas del tablero porque se=
+ reduce en gran medida el n=C3=BAmero de casillas que controlan.</p>
+<h3><span class=3D"mw-headline" id=3D"Alfiles">Alfiles</span></h3>
+<p>Un alfil siempre permanece en casillas del color en el que empezaron. Es=
+to no es una gran preocupaci=C3=B3n para un jugador que sigue teniento ambo=
+s alfiles, pero si s=C3=B3lo tenemos uno, las casillas del color contrario=
+ son m=C3=A1s dif=C3=ADciles de controlar. Cuando esto ocurre, los peones=
+ deben moverse a casillas del color contrario. As=C3=AD, no bloquear=C3=A1n=
+ al propio alfil y los peones enemigos enfrentados a ellos se colocar=C3=A1=
+n en casillas del color de nuestro alfil siendo m=C3=A1s vulnerables.</p>
+<p>Si no hay ninguna casilla buena obvia para desarrollar el alfil, se pued=
+e considerar desarrollarlo en <a href=3D"http://wikipedia.uho.edu.cu/wikipe=
+dia_es_all_03_2012/A/Fianchetto.html" title=3D"Fianchetto">fianchetto</a>:=
+ pe=C3=B3n g3 y alfil g2, u otras posiciones an=C3=A1logas (pe=C3=B3n en b3=
+ alfil en b2 y para las negras pe=C3=B3n en g6, alfil en g7 y pe=C3=B3n en=
+ b6, alfil en b7). Esta estructura forma una fuerte defensa para el rey enr=
+ocado y el alfil frecuentemente ejerce presi=C3=B3n sobre las grandes diago=
+nales (h1-a8 o a1-h8). Despu=C3=A9s de un fianchetto, no se debe permitir=
+ cambiar el alfil fianchetado f=C3=A1cilmente (a no ser que se cambie por=
+ el alfil del contrario del mismo color y se ocupe con el rey dicha casilla=
+) porque los agujeros alrededor del rey pueden ser fatales.</p>
+<p>Para decidir si un <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_a=
+ll_03_2012/A/Caballo%20%28ajedrez%29.html" title=3D"Caballo (ajedrez)">caba=
+llo</a> o un <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_201=
+2/A/Alfil.html" title=3D"Alfil">alfil</a> es m=C3=A1s poderoso en una posic=
+i=C3=B3n dada, se tienen que analizar varios aspectos: si la partida es "ce=
+rrada" con varias formaciones de peones entrelazadas, los caballos ser=C3=
+=A1n m=C3=A1s fuertes porque pueden saltar sobre los peones mientras que lo=
+s alfiles est=C3=A1n bloqueados. Un alfil es tambi=C3=A9n d=C3=A9bil si est=
+=C3=A1 permanentemente bloqueado por sus propios peones, que est=C3=A1n col=
+ocados en el color equivocado. En una partida abierta con acci=C3=B3n en am=
+bos lados del tablero, los alfiles ser=C3=A1n m=C3=A1s fuertes que los caba=
+llos debido a su mayor recorrido. Esto es realmente notorio en el <a href=
+=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Final%20%28ajedr=
+ez%29.html" title=3D"Final (ajedrez)">final</a>, si las peones pasados corr=
+en en ambos flancos, los alfiles normalmente ser=C3=A1n superiores a los ca=
+ballos.</p>
+<p>Un <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Fin=
+al%20%28ajedrez%29.html" title=3D"Final (ajedrez)">final</a> en que las dos=
+ partes tienen alfiles de distinto color es casi siempre tablas incluso aun=
+que un bando tenga dos peones de ventaja. Debido a que los peones se pueden=
+ parar f=C3=A1cilmente en las casillas del color contrario.</p>
+<h3><span class=3D"mw-headline" id=3D"Torres">Torres</span></h3>
+<p>Las <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/To=
+rre%20%28ajedrez%29.html" title=3D"Torre (ajedrez)">torres</a> son potentes=
+ en las columnas abiertas o semiabiertas (las columnas que no contienen peo=
+nes del propio color o de ning=C3=BAn color). Las torres en la s=C3=A9ptima=
+ fila pueden ser muy poderosas ya que atacan peones que s=C3=B3lo pueden se=
+r defendidas por otras piezas, no por otros peones y pueden bloquear al rey=
+ enemigo. Un par de torres blancas en la s=C3=A9ptima fila (o negras en la=
+ segunda) es frecuentemente un signo de una posici=C3=B3n ganadora.</p>
+<p>En el <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/=
+Final%20%28ajedrez%29.html" title=3D"Final (ajedrez)">final</a>, si existe=
+ un pe=C3=B3n pasado, =C3=A9ste es un candidato para la promoci=C3=B3n, las=
+ torres, amigas y enemigas de los peones a la vez, generalmente permanecen=
+ <i>detr=C3=A1s</i> del pe=C3=B3n en vez de enfrente de =C3=A9l, ver la <a=
+ href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Regla%20de%=
+20Tarrasch.html" title=3D"Regla de Tarrasch">regla de Tarrasch</a>.</p>
+<h3><span class=3D"mw-headline" id=3D"Dama">Dama</span></h3>
+<p>Las damas son las piezas m=C3=A1s fuertes de una partida de ajedrez. Son=
+ extremadamente vers=C3=A1tiles y puede amenazar muchas piezas a la vez. Po=
+r esta raz=C3=B3n, los mates involucrando la dama son mucho m=C3=A1s f=C3=
+=A1ciles de conseguir que estos que no la tienen. La p=C3=A9rdida de la dam=
+a normalmente dar=C3=A1 como resultado la p=C3=A9rdida de la partida, gener=
+almente es deseable retardar el desarrollo de la dama hasta que est=C3=A9n=
+ desarrollados los <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/A/Caballo%20%28ajedrez%29.html" title=3D"Caballo (ajedrez)">caballo=
+s</a> y los <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012=
+/A/Alfil.html" title=3D"Alfil">alfiles</a>. No obstante, es importante reco=
+rdar que la p=C3=A9rdida de la dama no siempre conduce a la p=C3=A9rdida de=
+ la partida. Generalmente a los jugadores t=C3=A1cticos no les gusta cambia=
+r la damas, sin embargo, a los jugadores posicionales s=C3=AD les gusta cam=
+biar las damas ya que as=C3=AD evitan la aparaci=C3=B3n de <a href=3D"http:=
+//wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Combinaci%C3%B3n%20%28aje=
+drez%29.html" title=3D"Combinaci=C3=B3n (ajedrez)">combinaciones</a>.</p>
+<h3><span class=3D"mw-headline" id=3D"Rey">Rey</span></h3>
+<p>Durante el <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_20=
+12/A/Medio%20juego%20%28ajedrez%29.html" title=3D"Medio juego (ajedrez)">me=
+dio juego</a>, el rey suele permanecer en una esquina detr=C3=A1s de sus pe=
+ones. El movimiento de estos peones debe evitarse porque debilita la posici=
+=C3=B3n del rey, aunque si esta debilidad se compensa con otras ventajas pu=
+ede realizarse en ciertos casos. Sin embargo, cuando las <a href=3D"http://=
+wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Torre%20%28ajedrez%29.html"=
+ title=3D"Torre (ajedrez)">torres</a> dejan la primera fila, hay un peligro=
+ de que una <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012=
+/A/Torre%20%28ajedrez%29.html" title=3D"Torre (ajedrez)">torre</a> enemiga=
+ invada dicha fila dando <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_e=
+s_all_03_2012/A/Jaque%20mate.html" title=3D"Jaque mate">jaque mate</a>, as=
+=C3=AD que algunas veces es necesario mover uno de los peones para evitar=
+ la amenaza de mate, este mate es conocido como <a href=3D"http://wikipedia=
+.uho.edu.cu/wikipedia_es_all_03_2012/A/Mate%20del%20pasillo.html" title=3D"=
+Mate del pasillo">mate del pasillo</a>.</p>
+<p>En el <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/=
+Final%20%28ajedrez%29.html" title=3D"Final (ajedrez)">final</a>, el rey se=
+ convierte en una pieza fuerte. Con el material reducido, no son preocupant=
+es los mates r=C3=A1pidos y moviendo el rey hacia el centro del tablero le=
+ da m=C3=A1s oportunidades de escapar de los ataques y permite al rey contr=
+olar un mayor n=C3=BAmero de casillas importantes.</p>
+<h2><span class=3D"mw-headline" id=3D"Citas">Citas</span></h2>
+<ul>
+<li><i>"La estrategia requiere pensamiento, la t=C3=A1ctica requiere observ=
+aci=C3=B3n."</i> - <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/A/Max%20Euwe.html" title=3D"Max Euwe">Max Euwe</a></li>
+<li><i>"Cuando veas un buen movimiento de espera - busca uno mejor."</i> -=
+ <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Emanuel%=
+20Lasker.html" title=3D"Emanuel Lasker">Emanuel Lasker</a></li>
+</ul>
+<h2><span class=3D"mw-headline" id=3D"V.C3.A9ase_tambi.C3.A9n">V=C3=A9ase=
+ tambi=C3=A9n</span></h2>
+<ul>
+<li><a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/T%C3%=
+A1cticas%20de%20ajedrez.html" title=3D"T=C3=A1cticas de ajedrez" class=3D"m=
+w-redirect">T=C3=A1cticas de ajedrez</a></li>
+<li><a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/T%C3%=
+A9rminos%20relacionados%20con%20el%20ajedrez.html" title=3D"T=C3=A9rminos=
+ relacionados con el ajedrez" class=3D"mw-redirect">T=C3=A9rminos relaciona=
+dos con el ajedrez</a></li>
+</ul>
+<h2><span class=3D"mw-headline" id=3D"Lecturas_adicionales">Lecturas adicio=
+nales</span></h2>
+<ul>
+<li><a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/John%=
+20Nunn.html" title=3D"John Nunn">John Nunn</a>: <i>Comprendiendo el Ajedrez=
+ Movimiento a Movimiento</i>, Gambito 2001. Un <a href=3D"http://wikipedia.=
+uho.edu.cu/wikipedia_es_all_03_2012/A/Gran%20Maestro%20Internacional.html"=
+ title=3D"Gran Maestro Internacional">Gran Maestro Internacional</a> explic=
+a los peonsamientos detr=C3=A1s de cada movimiento individual de muchas par=
+tidas de clase mundial.</li>
+<li><a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Jerem=
+y%20Silman.html" title=3D"Jeremy Silman">Jeremy Silman</a>: <i>La Mente del=
+ Amateur: Convirtiendo Malentendidos Ajedrec=C3=ADsticos en Maestr=C3=ADa=
+ Ajedrec=C3=ADstica</i>.Siles Press 1999. Un profesor de ajedrez analiza y=
+ corrige el pensamiento de principiantes avanzados.</li>
+<li>James Eade: <i>Ajedrez para Tontos</i>. =C3=89sta es una gu=C3=ADa comp=
+rensiva para principiantes.</li>
+<li><span class=3D"citation cita-libro" id=3D"CITAREFYasser_Seirawan2005"><=
+a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Yasser%20S=
+eirawan.html" title=3D"Yasser Seirawan">Yasser Seirawan</a> (2005). Everyma=
+n Chess. ed. <i>Estrategias de Ajedrez Ganadoras</i>. <small>1-85744-385-3<=
+/small>.</span><span class=3D"Z3988" title=3D"ctx_ver=3DZ39.88-2004&amp;rft=
+_val_fmt=3Dinfo%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=3Dbook&amp;rft=
+.btitle=3DEstrategias%2Bde%2BAjedrez%2BGanadoras&amp;rft.aulast=3D%5B%5BYas=
+ser%2BSeirawan%5D%5D&amp;rft.au=3D%5B%5BYasser%2BSeirawan%5D%5D&amp;rft.dat=
+e=3D2005&amp;rfr_id=3Dinfo:sid/es.wikipedia.org:Estrategia_(ajedrez)"><span=
+ style=3D"display: none;">=C2=A0</span></span></li>
+<li><span class=3D"citation cita-libro" id=3D"CITAREFLudek_Pachman1979"><a=
+ href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Ludek%20Pac=
+hman.html" title=3D"Ludek Pachman" class=3D"mw-redirect">Ludek Pachman</a>=
+ (1979). Martinez Roca. ed. <i>Estrategia moderna en ajedrez</i>. <small>IS=
+BN 84-270-0039-1</small>.</span><span class=3D"Z3988" title=3D"ctx_ver=3DZ3=
+9.88-2004&amp;rft_val_fmt=3Dinfo%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.gen=
+re=3Dbook&amp;rft.btitle=3DEstrategia%2Bmoderna%2Ben%2Bajedrez&amp;rft.aula=
+st=3D%5B%5BLudek%2BPachman%5D%5D&amp;rft.au=3D%5B%5BLudek%2BPachman%5D%5D&a=
+mp;rft.date=3D1979&amp;rfr_id=3Dinfo:sid/es.wikipedia.org:Estrategia_(ajedr=
+ez)"><span style=3D"display: none;">=C2=A0</span></span></li>
+</ul>
+<h2><span class=3D"mw-headline" id=3D"Enlaces_externos">Enlaces externos</s=
+pan></h2>
+<ul>
+<li><a href=3D"http://www.howtoadvice.com/Chess" class=3D"external text" re=
+l=3D"nofollow">64 Mandamientos del Ajedrez</a> por <a href=3D"http://wikipe=
+dia.uho.edu.cu/wikipedia_es_all_03_2012/A/Bruce%20Pandolfini.html" title=3D=
+"Bruce Pandolfini">Bruce Pandolfini</a></li>
+<li><a href=3D"http://www.geocities.com/jmgruizus/index.html" class=3D"exte=
+rnal text" rel=3D"nofollow"><i>Estrategia de Ajedrez</i>, Segunda Edici=C3=
+=B3n</a> (tambi=C3=A9n en <a href=3D"http://www.gutenberg.org/etext/5614"=
+ class=3D"external text" rel=3D"nofollow">Gutenberg-project</a>) y en <a hr=
+ef=3D"http://www.gutenberg.org/etext/4913" class=3D"external text" rel=3D"n=
+ofollow"><i>Ajedrez y Damas: el Camino a la Maestr=C3=ADa</i></a> por <a hr=
+ef=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Edward%20Laske=
+r.html" title=3D"Edward Lasker">Edward Lasker</a></li>
+<li><a href=3D"http://www.gutenberg.org/etext/16377" class=3D"external text=
+" rel=3D"nofollow"><i>El Libro Azul del Ajedrez</i></a>; "Ense=C3=B1ando lo=
+s Rudimentos del Luego y Dando un An=C3=A1lisis de Todas las Aperturas Reco=
+nocidas" por <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_201=
+2/A/Howard%20Staunton.html" title=3D"Howard Staunton">Howard Staunton</a></=
+li>
+<li><a href=3D"http://www.chesslodge.com/" class=3D"external text" rel=3D"n=
+ofollow">Estrategia de ajedrez</a>, lecciones gratis de elementos b=C3=A1si=
+cos.</li>
+</ul>
+
+
+
+   		        <div id=3D"catlinks" class=3D"catlinks"><div id=3D"mw-normal-c=
+atlinks">Categor=C3=ADa: <span dir=3D"ltr"><a href=3D"http://wikipedia.uho.=
+edu.cu/wikipedia_es_all_03_2012/A/Categor%C3%ADa:Ajedrez.html" title=3D"Cat=
+egor=C3=ADa:Ajedrez">Ajedrez</a></span></div></div></div></div>
+
+<script><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+
+</body></html>
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-58BB0654:http://wikipedia.uho.edu.cu/skin/jqueryui/css/smoothness/jquery-ui.custom.css
+
+/* Effective stylesheet produced by snapshot save */
+.ui-widget-header { border: 1px solid rgb(170, 170, 170); background: url("=
+http://wikipedia.uho.edu.cu/skin/jqueryui/css/smoothness/images/ui-bg_highl=
+ight-soft_75_cccccc_1x100.png") repeat-x scroll 50% 50% rgb(204, 204, 204);=
+ color: rgb(34, 34, 34); font-weight: bold; }
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl { border-top=
+-left-radius: 4px; }
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr { border-to=
+p-right-radius: 4px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl { border-=
+bottom-left-radius: 4px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br { border=
+-bottom-right-radius: 4px; }
+button.ui-button::-moz-focus-inner { border: 0px none; padding: 0px; }
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/skin/jqueryui/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-D3D9D6BD:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/shared.css
+
+/* Effective stylesheet produced by snapshot save */
+table.wikitable { margin: 1em 1em 1em 0px; background: none repeat scroll=
+ 0% 0% rgb(249, 249, 249); border: 1px solid rgb(170, 170, 170); border-col=
+lapse: collapse; }
+.wikitable th, .wikitable td { border: 1px solid rgb(170, 170, 170); paddin=
+g: 0.2em; }
+.wikitable th { background: none repeat scroll 0% 0% rgb(242, 242, 242); te=
+xt-align: center; }
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-5FD48D42:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/commonPrint.css
+
+/* Effective stylesheet produced by snapshot save */
+#toc { border: 1px solid rgb(170, 170, 170); background-color: rgb(249, 249=
+, 249); padding: 5px; }
+body { background: none repeat scroll 0% 0% White; color: Black; margin: 0p=
+x; padding: 0px; }
+.noprint, div#jump-to-nav, div.top, div#column-one, #colophon, .editsection=
+, .toctoggle, .tochidden, div#f-poweredbyico, div#f-copyrightico, li#viewco=
+unt, li#about, li#disclaimer, li#privacy, #mw-hidden-catlinks { display: no=
+ne; }
+ul { list-style-type: square; }
+h1, h2, h3, h4, h5, h6 { font-weight: bold; }
+p, .documentDescription { margin: 1em 0px ! important; line-height: 1.2em; }
+a { color: Black ! important; background: none repeat scroll 0% 0% transpar=
+ent ! important; padding: 0px ! important; }
+a:link, a:visited { color: rgb(85, 34, 0); background: none repeat scroll=
+ 0% 0% transparent; text-decoration: underline; }
+#globalWrapper { width: 100% ! important; min-width: 0px ! important; }
+a, a.external, a.new, a.stub { color: black ! important; text-decoration:=
+ none ! important; }
+a, a.external, a.new, a.stub { color: inherit ! important; text-decoration:=
+ inherit ! important; }
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-27CD5562:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/main.css
+
+/* Effective stylesheet produced by snapshot save */
+body { font: x-small sans-serif; background: url("urn:not-loaded:http://wik=
+ipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/headbg.jpg") no-repeat scroll=
+ 0px 0px rgb(249, 249, 249); color: black; margin: 0px; padding: 0px; }
+#globalWrapper { font-size: 127%; width: 100%; margin: 0px; padding: 0px;=
+ }
+table { font-size: 100%; color: black; background-color: white; }
+a { text-decoration: none; color: rgb(0, 43, 184); background: none repeat=
+ scroll 0% 0% transparent; }
+a:visited { color: rgb(90, 54, 150); }
+a:active { color: rgb(250, 167, 0); }
+a:hover { text-decoration: underline; }
+p { margin: 0.4em 0px 0.5em; line-height: 1.5em; }
+h1, h2, h3, h4, h5, h6 { color: black; background: none repeat scroll 0% 0%=
+ transparent; font-weight: normal; margin: 0px; padding-top: 0.5em; padding=
+-bottom: 0.17em; border-bottom: 1px solid rgb(170, 170, 170); }
+h1 { font-size: 188%; }
+h2 { font-size: 150%; }
+h3, h4, h5, h6 { border-bottom: medium none; font-weight: bold; }
+h3 { font-size: 132%; }
+ul { line-height: 1.5em; list-style-type: square; margin: 0.3em 0px 0px 1.5=
+em; padding: 0px; list-style-image: url("http://wikipedia.uho.edu.cu/I/bull=
+et_0.gif"); }
+li { margin-bottom: 0.1em; }
+dl { margin-top: 0.2em; margin-bottom: 0.5em; }
+dd { line-height: 1.5em; margin-left: 2em; margin-bottom: 0.1em; }
+form { border: medium none; margin: 0px; }
+#bodyContent h1, #bodyContent h2 { margin-bottom: 0.6em; }
+#bodyContent h3, #bodyContent h4, #bodyContent h5 { margin-bottom: 0.3em;=
+ }
+.catlinks { border: 1px solid rgb(170, 170, 170); background-color: rgb(249=
+, 249, 249); padding: 5px; margin-top: 1em; clear: both; }
+#toc, .toc, .mw-warning { border: 1px solid rgb(170, 170, 170); background-=
+color: rgb(249, 249, 249); padding: 5px; font-size: 95%; }
+#toc h2, .toc h2 { display: inline; border: medium none; padding: 0px; font=
+-size: 100%; font-weight: bold; }
+#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { text-align=
+: center; }
+#toc ul, .toc ul { list-style-type: none; list-style-image: none; margin-le=
+ft: 0px; padding-left: 0px; text-align: left; }
+#toc ul ul, .toc ul ul { margin: 0px 0px 0px 2em; }
+#toc .toctoggle, .toc .toctoggle { font-size: 94%; }
+#bodyContent a.external, #bodyContent a.external[href^=3D"gopher://"] { bac=
+kground: url("http://wikipedia.uho.edu.cu/I/external.png") no-repeat scroll=
+ right center transparent; padding: 0px 13px; }
+.ltr #bodyContent a.external { padding-left: 0px; }
+#bodyContent a.external { color: rgb(51, 102, 187); }
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://wikipedia.uho.edu.cu/I/bullet_0.gif
+
+<!DOCTYPE html>                                                          =
+                                                            <html xmlns=3D"=
+http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset=3D"UTF-8" />
+  <title>Welcome to Kiwix Server</title>
+  <link type=3D"text/css" href=3D"/skin/jqueryui/css/smoothness/jquery-ui.c=
+ustom.css" rel=3D"Stylesheet" />
+  <script type=3D"text/javascript" src=3D"/skin/jqueryui/js/jquery.min.js">=
+</script>
+  <script type=3D"text/javascript" src=3D"/skin/jqueryui/js/jquery-ui.custo=
+m.min.js"></script>
+<script>
+$(function() {
+$( "#accordion" ).accordion();
+});
+</script>
+</head>
+<body>
+
+<div id=3D"accordion">
+  <h3><a href=3D"#">Wikipedia</a></h3>                            <table st=
+yle=3D"overflow-x: hidden; overflow-y: hidden; margin-top: 0px; margin-bott=
+om: 0px; padding-top: 0px; padding-bottom: 0px; width: 100%; "><tr>      =
+                        <td style=3D"background-repeat: no-repeat; backgrou=
+nd-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAAB=
+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
+rMDI6MDCfKCJ6AAAAAElFTkSuQmCC)"><div style=3D"width: 50px"></div></td>   =
+                           <td style=3D"width: 100%;">La enciclopedia libre=
+<table style=3D"font-size: small; color: grey; width: 100%;"><tr><td style=
+=3D"width: 50%">Size: 10,366,074 MB (1,070,530 articles, 666,304 medias) =
+                                  </td><td>Created: 2012-03-20</td></tr>	=
+				                                  <tr><td>Author: Wikipedia</td><td>Lan=
+guage: spa</td></tr>                                   <tr><td>Publisher:=
+ Kiwix</td><td><button style=3D"align: right; right: 0px; float:right;" onc=
+lick=3D"window.location.href=3D'/wikipedia_es_all_03_2012/';">Load</button>=
+</td></tr>                                 </table>                      =
+        </td></tr>                             </table>
+</div>
+</body>
+</html>
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://wikipedia.uho.edu.cu/I/external.png
+
+<!DOCTYPE html>                                                          =
+                                                            <html xmlns=3D"=
+http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset=3D"UTF-8" />
+  <title>Welcome to Kiwix Server</title>
+  <link type=3D"text/css" href=3D"/skin/jqueryui/css/smoothness/jquery-ui.c=
+ustom.css" rel=3D"Stylesheet" />
+  <script type=3D"text/javascript" src=3D"/skin/jqueryui/js/jquery.min.js">=
+</script>
+  <script type=3D"text/javascript" src=3D"/skin/jqueryui/js/jquery-ui.custo=
+m.min.js"></script>
+<script>
+$(function() {
+$( "#accordion" ).accordion();
+});
+</script>
+</head>
+<body>
+
+<div id=3D"accordion">
+  <h3><a href=3D"#">Wikipedia</a></h3>                            <table st=
+yle=3D"overflow-x: hidden; overflow-y: hidden; margin-top: 0px; margin-bott=
+om: 0px; padding-top: 0px; padding-bottom: 0px; width: 100%; "><tr>      =
+                        <td style=3D"background-repeat: no-repeat; backgrou=
+nd-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAAB=
+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
+rMDI6MDCfKCJ6AAAAAElFTkSuQmCC)"><div style=3D"width: 50px"></div></td>   =
+                           <td style=3D"width: 100%;">La enciclopedia libre=
+<table style=3D"font-size: small; color: grey; width: 100%;"><tr><td style=
+=3D"width: 50%">Size: 10,366,074 MB (1,070,530 articles, 666,304 medias) =
+                                  </td><td>Created: 2012-03-20</td></tr>	=
+				                                  <tr><td>Author: Wikipedia</td><td>Lan=
+guage: spa</td></tr>                                   <tr><td>Publisher:=
+ Kiwix</td><td><button style=3D"align: right; right: 0px; float:right;" onc=
+lick=3D"window.location.href=3D'/wikipedia_es_all_03_2012/';">Load</button>=
+</td></tr>                                 </table>                      =
+        </td></tr>                             </table>
+</div>
+</body>
+</html>
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-6F5438B6:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7ECommon_0.css
+
+/* Effective stylesheet produced by snapshot save */
+ol.references > li:target, sup.reference:target, span.citation:target, cite=
+:target { background-color: rgb(221, 238, 255); }
+.citation { word-wrap: break-word; }
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-B8B57BE3:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7EPrint.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-AFBBEB43:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7EKiwixOffline_0.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-314DD865:http://wikipedia.uho.edu.cu/skin/jqueryui/js/jquery.min.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-2173D320:http://wikipedia.uho.edu.cu/skin/jqueryui/js/jquery-ui.custom.min.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-9CC45E90:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/wikibits.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-D020240D:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/gen_0.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_865E6D8C.D09B1D47--

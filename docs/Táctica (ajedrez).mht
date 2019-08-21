@@ -1,0 +1,1379 @@
+From: <Saved by Mozilla 5.0 (Windows)>
+Subject: =?utf-8?Q?T=C3=A1ctica?= (ajedrez)
+Date: Thu, 12 Mar 2009 18:37:44 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_A3B63E2B.574F5D92"
+X-MAF-Information: Produced By MAF V3.0.1
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/T%C3%A1ctica%20(ajedrez).html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" xml:lang=3D"es" dir=3D"ltr" lang=3D"es"><head>
+<meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF-8"><s=
+tyle><!--
+
+/* Effective stylesheet produced by snapshot save */
+
+#kiwixtoolbar { position: fixed; padding: 4px 15px 5px; margin-left: -10px;=
+ margin-right: -10px; left: 0px; right: 0px; top: 10px; z-index: 100; }
+
+#kiwixhome { margin: 0px; float: left; }
+
+#kiwixlibrary { margin: 0px; float: left; }
+
+#kiwixsearchbox { margin: 0px; float: right; }
+
+#kiwixsearch { margin: 0px; float: right; }
+
+--></style><link type=3D"text/css" href=3D"urn:snapshot-FD06AB8F:http://wik=
+ipedia.uho.edu.cu/skin/jqueryui/css/smoothness/jquery-ui.custom.css" rel=3D=
+"Stylesheet">
+<script type=3D"text/javascript" src=3D"urn:snapshot-FE77E806:http://wikipe=
+dia.uho.edu.cu/skin/jqueryui/js/jquery.min.js"></script>
+<script type=3D"text/javascript" src=3D"urn:snapshot-46A6642F:http://wikipe=
+dia.uho.edu.cu/skin/jqueryui/js/jquery-ui.custom.min.js"></script>
+<meta name=3D"keywords" content=3D"Tacticas de ajedrez, Tactica de ajedrez,=
+ Tactica (ajedrez), T=C3=A1ctica de ajedrez, T=C3=A1cticas de ajedrez">
+		<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+		<title>T=C3=A1ctica (ajedrez)</title>
+		<link rel=3D"stylesheet" href=3D"urn:snapshot-F34697A4:http://wikipedia.u=
+ho.edu.cu/wikipedia_es_all_03_2012/-/shared.css" media=3D"screen">
+<link rel=3D"stylesheet" href=3D"urn:snapshot-192AC773:http://wikipedia.uho=
+.edu.cu/wikipedia_es_all_03_2012/-/commonPrint.css" media=3D"print">
+<link rel=3D"stylesheet" href=3D"urn:snapshot-77B71ACD:http://wikipedia.uho=
+.edu.cu/wikipedia_es_all_03_2012/-/main.css" media=3D"screen">
+<link rel=3D"stylesheet" href=3D"urn:snapshot-AB0099D1:http://wikipedia.uho=
+.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7ECommon_0.css">
+<link rel=3D"stylesheet" href=3D"urn:snapshot-AAAC013B:http://wikipedia.uho=
+.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7EPrint.css" media=3D"print">
+<link rel=3D"stylesheet" href=3D"urn:snapshot-813F1F16:http://wikipedia.uho=
+.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7EKiwixOffline_0.css">
+
+		<script><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+		<script type=3D"text/javascript" src=3D"urn:snapshot-6134DB9E:http://wiki=
+pedia.uho.edu.cu/wikipedia_es_all_03_2012/-/wikibits.js"></script>
+		<script type=3D"text/javascript" src=3D"urn:snapshot-555BE5FC:http://wiki=
+pedia.uho.edu.cu/wikipedia_es_all_03_2012/-/gen_0.js"></script>
+	</head>
+<body class=3D"mediawiki ltr ns-0 ns-subject page-Andorra skin-KiwixOffline=
+" style=3D"margin: 0 1em 1em 1em; background: #FFFFFF"><script><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+
+<span id=3D"kiwixtoolbar" class=3D"ui-widget-header ui-corner-all">
+  <button id=3D"kiwixlibrary" onclick=3D"">Library</button>
+  <button id=3D"kiwixhome" onclick=3D"">Home</button>
+  <form method=3D"GET" action=3D"http://wikipedia.uho.edu.cu/search" id=3D"=
+kiwixsearchform">
+    <input name=3D"content" value=3D"wikipedia_es_all_03_2012" type=3D"hidd=
+en">
+    <input id=3D"kiwixsearch" value=3D"Search" type=3D"submit">
+    <input id=3D"kiwixsearchbox" name=3D"pattern">
+  </form>
+</span>
+<div style=3D"display: block; height: 45px;"></div>
+
+	<div id=3D"globalWrapper"><div id=3D"bodyContent">
+		<a name=3D"top" id=3D"top"></a>
+		<h1 class=3D"firstHeading">T=C3=A1ctica (ajedrez)</h1>
+			<div class=3D"tright" style=3D"clear: right; width: 260px; text-align:ce=
+nter">Doble ataque directo.
+<div style=3D"border:1px solid #b0b0b0; background:#f9f9f9; padding-top:6px=
+">
+<table style=3D"border: 1px solid #b0b0b0; background-color: #ffce9e; margi=
+n:auto" cellpadding=3D"0" cellspacing=3D"0">
+<tbody><tr>
+<td colspan=3D"10" bgcolor=3D"white"><img alt=3D"Chess zhor 26.png" src=3D"=
+http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/Chess_zhor_26.png"=
+ height=3D"18" width=3D"242"></td>
+</tr>
+<tr>
+<td rowspan=3D"8" bgcolor=3D"white"><img alt=3D"Chess zver 26.png" src=3D"h=
+ttp://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/Chess_zver_26.png" he=
+ight=3D"210" width=3D"16"></td>
+<td><img alt=3D"a8" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b8" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c8" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d8 ql" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_qld45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e8" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f8" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g8" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h8" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td rowspan=3D"8" bgcolor=3D"white"><img alt=3D"Chess zver 26.png" src=3D"h=
+ttp://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/Chess_zver_26.png" he=
+ight=3D"210" width=3D"16"></td>
+</tr>
+<tr>
+<td><img alt=3D"a7" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b7" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c7 kl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_kld45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d7" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e7" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f7" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g7" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h7" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a6" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b6" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c6" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d6" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e6 nd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_ndl45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f6" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g6" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h6" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f3 pd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pdl45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a2" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b2" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c2" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d2" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e2" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f2" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g2 kd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_kdl45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h2" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td colspan=3D"10" bgcolor=3D"white"><img alt=3D"Chess zhor 26.png" src=3D"=
+http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/Chess_zhor_26.png"=
+ height=3D"18" width=3D"242"></td>
+</tr>
+</tbody></table>
+<div class=3D"thumbcaption" style=3D"margin-left:4px;margin-right:4px;">El=
+ <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Caballo%=
+20%28ajedrez%29.html" title=3D"Caballo (ajedrez)">caballo</a> es el maestro=
+ del ataque doble, esta t=C3=A1ctica es sencilla pero muy da=C3=B1ina. Lueg=
+o de una carrera entre peones, las blancas han coronado, pero... las negras=
+ han jugado ...Ce6+ y con esto ganan la partida.</div>
+</div>
+</div>
+<div class=3D"tright" style=3D"clear: right; width: 260px; text-align:cente=
+r">Desviaci=C3=B3n.
+<div style=3D"border:1px solid #b0b0b0; background:#f9f9f9; padding-top:6px=
+">
+<table style=3D"border: 1px solid #b0b0b0; background-color: #ffce9e; margi=
+n:auto" cellpadding=3D"0" cellspacing=3D"0">
+<tbody><tr>
+<td colspan=3D"10" bgcolor=3D"white"><img alt=3D"Chess zhor 26.png" src=3D"=
+http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/Chess_zhor_26.png"=
+ height=3D"18" width=3D"242"></td>
+</tr>
+<tr>
+<td rowspan=3D"8" bgcolor=3D"white"><img alt=3D"Chess zver 26.png" src=3D"h=
+ttp://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/Chess_zver_26.png" he=
+ight=3D"210" width=3D"16"></td>
+<td><img alt=3D"a8 rd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_rdl45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b8" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c8 bd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_bdl45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d8 qd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_qdd45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e8" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f8" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g8 rd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_rdl45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h8 kd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_kdd45.svg.png" height=3D"26" width=3D"26"></td>
+<td rowspan=3D"8" bgcolor=3D"white"><img alt=3D"Chess zver 26.png" src=3D"h=
+ttp://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/Chess_zver_26.png" he=
+ight=3D"210" width=3D"16"></td>
+</tr>
+<tr>
+<td><img alt=3D"a7 pd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pdd45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b7 pd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pdl45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c7" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d7" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e7" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f7 ql" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_qll45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g7" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h7 pd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pdl45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a6" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b6 nd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_ndd45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c6 pd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pdl45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d6 bd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_bdd45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e6" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f6 pd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pdd45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g6" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h6 bl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_bld45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d5 pd" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pdl45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g5 pl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pld45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h5" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d4 pl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pld45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h4" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c3 nl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_nld45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d3 bl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_bll45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e3 rl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_rld45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h3" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a2 pl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pll45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b2 pl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pld45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c2 pl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pll45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d2" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e2" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f2" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g2 pl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pll45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h2 pl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_pld45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td><img alt=3D"a1 rl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_rld45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"b1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"c1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"d1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"e1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_d45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"f1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"g1 kl" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_=
+03_2012/I/26px-Chess_kld45.svg.png" height=3D"26" width=3D"26"></td>
+<td><img alt=3D"h1" src=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_=
+2012/I/26px-Chess_l45.svg.png" height=3D"26" width=3D"26"></td>
+</tr>
+<tr>
+<td colspan=3D"10" bgcolor=3D"white"><img alt=3D"Chess zhor 26.png" src=3D"=
+http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/Chess_zhor_26.png"=
+ height=3D"18" width=3D"242"></td>
+</tr>
+</tbody></table>
+<div class=3D"thumbcaption" style=3D"margin-left:4px;margin-right:4px;">Par=
+tida entre Formaneck y Grigurich, en Varsovia, 1927. Aqu=C3=AD la torre neg=
+ra debe defender mate en <b>g7</b> y la dama negra la captura en <b>f6</b>=
+ que llevar=C3=ADa a mate. Las blancas logran desviar una de estas piezas=
+ con <b>Te8</b>.</div>
+</div>
+</div>
+<p>Una <b>t=C3=A1ctica en el ajedrez</b>, de forma similar que en el <a hre=
+f=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Batalla.html"=
+ title=3D"Batalla">combate</a> real, es un movimiento especial o conjunto=
+ de =C3=A9stos que se encamina a conseguir un objetivo particular en el <a=
+ href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Ajedrez.htm=
+l" title=3D"Ajedrez">juego</a>. Dicho objetivo puede ser tomar <a href=3D"h=
+ttp://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Material%20%28ajedrez=
+%29.html" title=3D"Material (ajedrez)">material</a> al adversario, mejorar=
+ la posici=C3=B3n propia o facilitar el mate. En el ajedrez hay varias t=C3=
+=A1cticas, las cuales a veces tambi=C3=A9n pueden comportar la victoria inm=
+ediata (jaque mate), algunas de las m=C3=A1s conocidas son:</p>
+<ul>
+<li>Doble ataque directo</li>
+<li>Doble ataque por descubierta</li>
+<li>Doble ataque a piezas que se tapan "<a href=3D"http://wikipedia.uho.edu=
+.cu/wikipedia_es_all_03_2012/A/Rayos%20X%20%28ajedrez%29.html" title=3D"Ray=
+os X (ajedrez)">rayos equis</a>".</li>
+<li>La clavada.</li>
+<li>Piezas sobrecargadas y ataque a la pieza que defiende.</li>
+<li>Jaque al descubierto.</li>
+<li>Jaque doble.</li>
+<li>La jugada intermedia.</li>
+</ul>
+<p>
+Adem=C3=A1s, existen otras t=C3=A1cticas, que tambi=C3=A9n son elementales=
+ en el ajedrez, tales como:</p>
+<ul>
+<li>Desviaci=C3=B3n</li>
+<li>Atracci=C3=B3n</li>
+<li>Destrucci=C3=B3n de la defensa</li>
+<li>Bloqueo</li>
+<li>Intercepci=C3=B3n de l=C3=ADneas</li>
+<li>Despeje de casillas o l=C3=ADneas</li>
+</ul>
+<p>El conocimiento profundo de las t=C3=A1cticas con frecuencia distingue=
+ a un ajedrecista intermedio o avanzado de uno novato. Las <a href=3D"http:=
+//wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Ordenador.html" title=3D"=
+Ordenador" class=3D"mw-redirect">computadoras</a> son especialmente fuertes=
+ en las t=C3=A1cticas, ya que requieren pocas jugadas, en cambio son d=C3=
+=A9biles en la <a href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2=
+012/A/Estrategia%20%28ajedrez%29.html" title=3D"Estrategia (ajedrez)">estra=
+tegia</a> por que son planes que implican muchas jugadas.</p>
+
+<table id=3D"toc" class=3D"toc">
+<tbody><tr>
+<td>
+<div id=3D"toctitle">
+<h2>Contenido</h2>
+ <span class=3D"toctoggle">[<a href=3D"#" class=3D"internal" id=3D"toggleli=
+nk">ocultar</a>]</span></div>
+<ul>
+<li class=3D"toclevel-1 tocsection-1"><a href=3D"#Doble_ataque_directo"><sp=
+an class=3D"tocnumber">1</span> <span class=3D"toctext">Doble ataque direct=
+o</span></a>
+<ul>
+<li class=3D"toclevel-2 tocsection-2"><a href=3D"#Doble_con_pe.C3.B3n"><spa=
+n class=3D"tocnumber">1.1</span> <span class=3D"toctext">Doble con pe=C3=B3=
+n</span></a></li>
+<li class=3D"toclevel-2 tocsection-3"><a href=3D"#Doble_con_alfil"><span cl=
+ass=3D"tocnumber">1.2</span> <span class=3D"toctext">Doble con alfil</span>=
+</a></li>
+<li class=3D"toclevel-2 tocsection-4"><a href=3D"#Doble_con_torre"><span cl=
+ass=3D"tocnumber">1.3</span> <span class=3D"toctext">Doble con torre</span>=
+</a></li>
+<li class=3D"toclevel-2 tocsection-5"><a href=3D"#Doble_con_dama"><span cla=
+ss=3D"tocnumber">1.4</span> <span class=3D"toctext">Doble con dama</span></=
+a></li>
+<li class=3D"toclevel-2 tocsection-6"><a href=3D"#Doble_con_rey"><span clas=
+s=3D"tocnumber">1.5</span> <span class=3D"toctext">Doble con rey</span></a>=
+</li>
+<li class=3D"toclevel-2 tocsection-7"><a href=3D"#Doble_con_caballo"><span=
+ class=3D"tocnumber">1.6</span> <span class=3D"toctext">Doble con caballo</=
+span></a></li>
+</ul>
+</li>
+<li class=3D"toclevel-1 tocsection-8"><a href=3D"#Doble_ataque_por_descubie=
+rta"><span class=3D"tocnumber">2</span> <span class=3D"toctext">Doble ataqu=
+e por descubierta</span></a></li>
+<li class=3D"toclevel-1 tocsection-9"><a href=3D"#Doble_ataque_a_piezas_que=
+_se_tapan_.22rayos_x.22"><span class=3D"tocnumber">3</span> <span class=3D"=
+toctext">Doble ataque a piezas que se tapan "rayos x"</span></a></li>
+<li class=3D"toclevel-1 tocsection-10"><a href=3D"#La_clavada"><span class=
+=3D"tocnumber">4</span> <span class=3D"toctext">La clavada</span></a></li>
+<li class=3D"toclevel-1 tocsection-11"><a href=3D"#Desviaci.C3.B3n"><span=
+ class=3D"tocnumber">5</span> <span class=3D"toctext">Desviaci=C3=B3n</span=
+></a></li>
+<li class=3D"toclevel-1 tocsection-12"><a href=3D"#Atracci.C3.B3n"><span cl=
+ass=3D"tocnumber">6</span> <span class=3D"toctext">Atracci=C3=B3n</span></a=
+></li>
+<li class=3D"toclevel-1 tocsection-13"><a href=3D"#Destrucci.C3.B3n_de_la_d=
+efensa"><span class=3D"tocnumber">7</span> <span class=3D"toctext">Destrucc=
+i=C3=B3n de la defensa</span></a></li>
+<li class=3D"toclevel-1 tocsection-14"><a href=3D"#Bloqueo"><span class=3D"=
+tocnumber">8</span> <span class=3D"toctext">Bloqueo</span></a></li>
+<li class=3D"toclevel-1 tocsection-15"><a href=3D"#Intercepci.C3.B3n_de_l.C=
+3.ADneas"><span class=3D"tocnumber">9</span> <span class=3D"toctext">Interc=
+epci=C3=B3n de l=C3=ADneas</span></a></li>
+<li class=3D"toclevel-1 tocsection-16"><a href=3D"#Despeje_de_casillas_o_l.=
+C3.ADneas"><span class=3D"tocnumber">10</span> <span class=3D"toctext">Desp=
+eje de casillas o l=C3=ADneas</span></a></li>
+<li class=3D"toclevel-1 tocsection-17"><a href=3D"#Referencias"><span class=
+=3D"tocnumber">11</span> <span class=3D"toctext">Referencias</span></a></li>
+<li class=3D"toclevel-1 tocsection-18"><a href=3D"#V.C3.A9ase_tambi.C3.A9n"=
+><span class=3D"tocnumber">12</span> <span class=3D"toctext">V=C3=A9ase tam=
+bi=C3=A9n</span></a></li>
+</ul>
+</td>
+</tr>
+</tbody></table>
+<script type=3D"text/javascript"><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+<h2><span class=3D"mw-headline" id=3D"Doble_ataque_directo">Doble ataque di=
+recto</span></h2>
+<p>Un ataque doble es en el que se amenazan dos piezas a la vez, de forma=
+ que al atacante le convenga. El caballo es la mejor pieza para un ataque=
+ doble.</p>
+<h3><span class=3D"mw-headline" id=3D"Doble_con_pe.C3.B3n">Doble con pe=C3=
+=B3n</span></h3>
+<p>Adelantando un pe=C3=B3n se puede hacer un doble a dos piezas situadas=
+ en la misma fila y en columnas alternas. El pe=C3=B3n no debe poder ser ca=
+pturado. De este ataque resulta casi siempre la captura de una de las pieza=
+s que se atacan y siendo el pe=C3=B3n la pieza de menor valor, siempre es=
+ ventajoso el cambio.</p>
+<h3><span class=3D"mw-headline" id=3D"Doble_con_alfil">Doble con alfil</spa=
+n></h3>
+<p>Tal que =C3=A9l ataque dos piezas, como puede ser el caso de dos caballo=
+s, resulta en una t=C3=A1ctica muy =C3=BAtil, dado que es el ultimo.</p>
+<h3><span class=3D"mw-headline" id=3D"Doble_con_torre">Doble con torre</spa=
+n></h3>
+<p>Una torre puesta en una l=C3=ADnea que forman dos piezas enemigas consti=
+tuye un poderoso ataque doble, como ejemplo una torre defendida puesta entr=
+e una dama y el rey.</p>
+<h3><span class=3D"mw-headline" id=3D"Doble_con_dama">Doble con dama</span>=
+</h3>
+<p>La dama al actuar como alfil y torre tiene muchas posibilidades en el at=
+aque doble, ya que combina en una sola pieza el poder de ambas lo cual es=
+ utilizado mucho en ataques dobles con jaque para ganar material en los fin=
+ales.</p>
+<h3><span class=3D"mw-headline" id=3D"Doble_con_rey">Doble con rey</span></=
+h3>
+<p>De poca importancia aunque muy =C3=BAtil en los finales para ganar mater=
+ial y bloquear peones que pretenden coronar u otras piezas enemigas.Puede=
+ usarse para dar mate con doble de rey y Dama.</p>
+<h3><span class=3D"mw-headline" id=3D"Doble_con_caballo">Doble con caballo<=
+/span></h3>
+<p>El caballo es el rey del ataque doble por sus capacidades de movimiento.=
+ Es muy poderoso para atacar piezas de gran valor como dos torres, torre y=
+ dama o dama y rey.</p>
+<h2><span class=3D"mw-headline" id=3D"Doble_ataque_por_descubierta">Doble=
+ ataque por descubierta</span></h2>
+<p>Consiste en amenazar dos piezas del adversario, en una misma jugada, con=
+ dos piezas nuestras: amenazamos una con la pieza que hemos movido y otra=
+ con una segunda pieza que con el movimiento ha quedado descubierta. Este=
+ tipo de jugada t=C3=A1ctica se puede hacer con much=C3=ADsimas combinacion=
+es de piezas. Una variante de este doble consiste en matar una pieza advers=
+aria, pese a que la tenga defendida. Si nuestro rival nos mata la pieza que=
+ hemos movido, entonces podemos matarle otra pieza con la que nos ha quedad=
+o descubierta, y si el rival opta por retirar o defender la pieza amenazada=
+ por nuestra pieza descubierta, entonces podremos retirar y salvar la pieza=
+ con qu=C3=A9 hemos matado inicialmente: el resultado es siempre una gananc=
+ia de material.</p>
+<h2><span class=3D"mw-headline" id=3D"Doble_ataque_a_piezas_que_se_tapan_.2=
+2rayos_x.22">Doble ataque a piezas que se tapan "rayos x"</span></h2>
+<p>Consiste en atacar una pieza que si el rival la retira a otra casilla,=
+ queda amenazada una segunda pieza. Esta jugada comporta siempre la p=C3=A9=
+rdida de una de las dos piezas. Hay seis posibilidades, torre o alfil ataca=
+ndo dama y rey (o rey y dama) y alfil atacando torre y rey (o rey y torre).=
+ Tambi=C3=A9n se puede atacar, por ejemplo, la dama y una torre con el alfi=
+l.</p>
+<h2><span class=3D"mw-headline" id=3D"La_clavada">La clavada</span></h2>
+<p>Consiste en una pieza que ataca a otra que no puede ser movida o no conv=
+iene mover por que si esto se hace, resulta en un jaque o en una captura ve=
+ntajosa para la pieza que ataca. Un ejemplo es un alfil que ataca a una tor=
+re en cuya misma diagonal atr=C3=A1s de la torre se encuentra el rey, esto=
+ resulta de la imposibilidad de mover la torre con la consiguiente captura=
+ de la torre por parte del alfil para este caso. Tambi=C3=A9n, a=C3=BAn que=
+ la captura no convenga, clavar una pieza inutiliza a =C3=A9sta por que no=
+ puede moverse eliminando su posible acci=C3=B3n defensiva u ofensiva a ter=
+ceras piezas seg=C3=BAn sean del mismo bando o del contrario.</p>
+<p>Algunas defensas ante una clavada son:</p>
+<ul>
+<li>La interposici=C3=B3n.</li>
+<li>La contraclavada.</li>
+<li>Mover una pieza trasera.</li>
+<li>Mover la pieza propia que origina la clavada.</li>
+<li>Distraer la pieza clavante.</li>
+<li>La pregunta a la pieza clavante.</li>
+<li>Anticipar la clavada.</li>
+</ul>
+<h2><span class=3D"mw-headline" id=3D"Desviaci.C3.B3n">Desviaci=C3=B3n</spa=
+n></h2>
+<p>La desviaci=C3=B3n es un arma t=C3=A1ctica importante; consiste en forza=
+r a una pieza rival a dejar su posici=C3=B3n actual, dando a nuestras pieza=
+s el acceso a casillas o l=C3=ADneas importantes.</p>
+<h2><span class=3D"mw-headline" id=3D"Atracci.C3.B3n">Atracci=C3=B3n</span>=
+</h2>
+<p>La atracci=C3=B3n es un elemento t=C3=A1ctico que consiste en atraer fav=
+orablemente una pieza rival (por lo com=C3=BAn el rey) a una casilla en par=
+ticular. La atracci=C3=B3n tiene una gran semejanza con el tema de la desvi=
+aci=C3=B3n.</p>
+<h2><span class=3D"mw-headline" id=3D"Destrucci.C3.B3n_de_la_defensa">Destr=
+ucci=C3=B3n de la defensa</span></h2>
+<p>Una arma t=C3=A1ctica de gran poder es la combinaci=C3=B3n basada en la=
+ eliminaci=C3=B3n directa de la pieza que controla l=C3=ADneas o casillas=
+ importantes en el tablero. Tiene semejanza con la desviaci=C3=B3n, pero en=
+ este caso la pieza contraria es capturada y no desviada.</p>
+<h2><span class=3D"mw-headline" id=3D"Bloqueo">Bloqueo</span></h2>
+<p>El objetivo de este recurso t=C3=A1ctico consiste en forzar a una pieza=
+ rival a ocupar una casilla que resulta perjudicial, por lo com=C3=BAn, par=
+a su propio rey. Es una forma eficaz de eliminar la coordinaci=C3=B3n de la=
+s fuerzas contrarias.</p>
+<h2><span class=3D"mw-headline" id=3D"Intercepci.C3.B3n_de_l.C3.ADneas">Int=
+ercepci=C3=B3n de l=C3=ADneas</span></h2>
+<p>Mediante este recurso t=C3=A1ctico, la conexi=C3=B3n entre dos o m=C3=A1=
+s piezas del oponente es obstruida, impidiendo el acceso a una casilla o l=
+=C3=ADnea vital.</p>
+<h2><span class=3D"mw-headline" id=3D"Despeje_de_casillas_o_l.C3.ADneas">De=
+speje de casillas o l=C3=ADneas</span></h2>
+<p>En ocasiones una pieza impide el paso de otras del mismo bando a una cas=
+illa o l=C3=ADnea donde tendr=C3=ADa gran efecto. En este caso, es necesari=
+o "ceder el paso"</p>
+<h2><span class=3D"mw-headline" id=3D"Referencias">Referencias</span></h2>
+<ul>
+<li><span class=3D"citation cita-libro" id=3D"CITAREFLudek_Pachman1972"><a=
+ href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Ludek%20Pac=
+hman.html" title=3D"Ludek Pachman" class=3D"mw-redirect">Ludek Pachman</a>=
+ (1972). Martinez Roca. ed. <i>T=C3=A1ctica moderna en ajedrez. (Tomo 1)</i=
+>. <small>ISBN 84-270-0098-7</small>.</span><span class=3D"Z3988" title=3D"=
+ctx_ver=3DZ39.88-2004&amp;rft_val_fmt=3Dinfo%3Aofi%2Ffmt%3Akev%3Amtx%3Abook=
+&amp;rft.genre=3Dbook&amp;rft.btitle=3DT%C3%A1ctica%2Bmoderna%2Ben%2Bajedre=
+z.%2B%28Tomo%2B1%29&amp;rft.aulast=3D%5B%5BLudek%2BPachman%5D%5D&amp;rft.au=
+=3D%5B%5BLudek%2BPachman%5D%5D&amp;rft.date=3D1972&amp;rfr_id=3Dinfo:sid/es=
+.wikipedia.org:T%C3%A1ctica_(ajedrez)"><span style=3D"display: none;">=C2=
+=A0</span></span></li>
+<li><span class=3D"citation cita-libro" id=3D"CITAREFLudek_Pachman1972"><a=
+ href=3D"http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/A/Ludek%20Pac=
+hman.html" title=3D"Ludek Pachman" class=3D"mw-redirect">Ludek Pachman</a>=
+ (1972). Martinez Roca. ed. <i>T=C3=A1ctica moderna en ajedrez. (Tomo 2)</i=
+>. <small>ISBN 84-270-0099-5</small>.</span><span class=3D"Z3988" title=3D"=
+ctx_ver=3DZ39.88-2004&amp;rft_val_fmt=3Dinfo%3Aofi%2Ffmt%3Akev%3Amtx%3Abook=
+&amp;rft.genre=3Dbook&amp;rft.btitle=3DT%C3%A1ctica%2Bmoderna%2Ben%2Bajedre=
+z.%2B%28Tomo%2B2%29&amp;rft.aulast=3D%5B%5BLudek%2BPachman%5D%5D&amp;rft.au=
+=3D%5B%5BLudek%2BPachman%5D%5D&amp;rft.date=3D1972&amp;rfr_id=3Dinfo:sid/es=
+.wikipedia.org:T%C3%A1ctica_(ajedrez)"><span style=3D"display: none;">=C2=
+=A0</span></span></li>
+</ul>
+<h2><span class=3D"mw-headline" id=3D"V.C3.A9ase_tambi.C3.A9n">V=C3=A9ase=
+ tambi=C3=A9n</span></h2>
+
+
+
+   		        <div id=3D"catlinks" class=3D"catlinks"><div id=3D"mw-normal-c=
+atlinks">Categor=C3=ADa: <span dir=3D"ltr"><a href=3D"http://wikipedia.uho.=
+edu.cu/wikipedia_es_all_03_2012/A/Categor%C3%ADa:T%C3%A1cticas%20de%20ajedr=
+ez.html" title=3D"Categor=C3=ADa:T=C3=A1cticas de ajedrez">T=C3=A1cticas de=
+ ajedrez</a></span></div></div></div></div>
+
+<script><!--
+
+/* Script removed by snapshot save */
+
+--></script>
+
+</body></html>
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/Chess_zhor_26.png
+
+iVBORw0KGgoAAAANSUhEUgAAAPIAAAASAgMAAAAcQmu1AAAACVBMVEX///8AAAD//+4UX6+9AAAA
+kklEQVQ4je2QMQ6AIAxF20R2TdTB02CiuyZ4M4/Agqc0tph8DC6s2oHwKY//KdFfREuiWhQO9iZP
+14mqYM/0Jq7aZG3U3FlxmKDTqbeTC9ymMB8C9F4Eixh26KgdBxXj01sBD8Gi2JCOTz2ix+McjV99
+owMmJ0ye0CFLx3GsOjUdlJnhT/fUrHYsFVUhRpDq83UCyGEXjubf0rYAAAAASUVORK5CYII=
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/Chess_zver_26.png
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAADSAgMAAAA+vahNAAAACVBMVEX///8AAAD//+4UX6+9AAAA
+fUlEQVQ4y72TsQ0EIQwEBwlf7ITkqnEJBC7si7hCP8LIp08I/BuMZIS0Ky/AuWQC97PwGvdZnYYD
+2gE6gAYso04OtAggE7iehFa7A/FlvhPsWXt9C0ygfYArMDz34bU7MEDDrVkyV11X/pYAS89CFRjF
+LbB8xX78gIAcVvEF9ZARva1fxm8AAAAASUVORK5CYII=
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_l45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaAQMAAACThN6NAAAABlBMVEX/zp7///9Kp/Q8AAAAAWJL
+R0QB/wIt3gAAAAxJREFUCB1jYBhoAAAAggABzdDwjgAAAABJRU5ErkJggg==
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_d45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaAQMAAACThN6NAAAABlBMVEXRi0f///+8TrFQAAAAAWJL
+R0QB/wIt3gAAAAxJREFUCB1jYBhoAAAAggABzdDwjgAAAABJRU5ErkJggg==
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_qld45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAACLlBMVEXRi0f///8AAACHWi6qqqp2
+cW62tra1eD7OiUbPiUadnZ27u7sTExMoIBnDgkLNiEbPikbQikfCwsLGxsbz8/MODQ0WEQwREREY
+EgwVEhAYEw4UFBQaFRAeGRQjHxomIh0nIh4tJBw6KBUwKiU7LR42MCtLOCZNOiZUPihrSSlTT0t1
+TypzTyxZVE9+VCuEWC1hXlqaZzadaTWeaTavdTy6fD/AgEHGhEPKh0WOjY2bm5ugoJ+kpKSlpKS6
+urrExMTIyMjMzMzOzs7V1dXi4uLn5+fs7Ozu7u4DAwILCwsPDAoSDwsTExIVFBQVFRUfGBEeGhYe
+GhchHBYlHBMkHhkfHx4lHxknHxgjHxwgIB8kIBwpIRknIRwpIhsnIh0vIhYpIxwoIx8sJyIsJyM/
+KxdALBdHLxgyMS9CMSE2Mi1DMiJFNCM2NTRMOCVBPTpWPidaQShZQSlhRSlgRSpLRkFjRipmRypm
+SCpnSCpoSSpOS0dNTU1vTi5SUE5RUVF4USx5Uy9+VS1aVlFZVlOBViyEWC5aWVeKXC9dXV1eXl6S
+YjKTYjJmYl+UYjJnY19mZGKYZjWZZjVqZ2NraGWfajehazeibDembjircjp0cnGsczutczt5eHa0
+eD23ej58e3l+fXt/fXu8fUDBgEHEgkPHhETIhUSHh4fLh0WIiIiJiYiKiomLioqQkJCenp2ysrK0
+tLS3t7e4uLi5ubnHx8fl5eX29vb39/f9/f3+/v7b9kotAAAAAWJLR0QB/wIt3gAAAY9JREFUKBWl
+wWVbFFEABtB37p3Ybrq7u7u7FEFBlFAElDDAwiAVFAy6UwGVEAmRf8c+wLArfOQc4NLmBFwkffFI
+hZC7d0KgHRjHf9592WjFs7it5+hsvx8G0VfvMXxsefMaEba2EXgcN9WFUe8hGK1U8telqCNqwNoa
+WM6uipaW8LdWAURXryu1oGQesLcHvpMgaG/8uv0DRpP3iATU4iWinJ2j0EEoJKR2BsfCiT/oYLE0
+NCAgFBU9FP4kHCckNo4C5bo/+cXE+IW1cVRwtJHglDLBnXK6Ri+dzquZ56h7ghIiz2RfV+6wJtdg
+yLv5j3P1TfaEyEeWQYKZBWLYJ7NMMMmQ+UBELZrsrBQFitJyRWG+lV19Th9EE2Q77YA59TftN5nG
+mScjWak8y8bGsuyf1KzhpzDRWH6Q7cr1KSl6+Y6s31IDM4FL6UmJrFFiUvpiIMxoil79jOfle3o5
+H7/29hrMBH1mzJQJMHm4mcmcyXzfCxPhgYvDVSc3Dw83pysOLg3fcI5aFRmpUuOSjgCsj061IRHF
+ZgAAAABJRU5ErkJggg==
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_kld45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABmJLR0QA/wD/AP+gvaeTAAAC/klE
+QVRIx+2WXUiTURjHd6cQfVzEptvc1LXN3Nzc1E23pvvUZYZfrBWtLjIzneIsCU0pLCk1xtzFqgmT
+CrIIWgiBQRdJNIKttF14pXirXgl6o6L+23vCUeiWVuumHvjzHs573vM75zwf56WF75Xhb4j2H9R/
+VkKUUFCtko3UQ8lEVDthoOAdI66eFBJR7YSBPvWZUKNMI/rcV5o40HEFD5frLxBR7d8GTQ6U4nWH
+Bm+uF2Oy/9vKnzuKYCguwpbpNYWkj3r3sdcIf7sa73v0uwf122TIYNNRUaolymAzYNNnofe0GK32
+hiiopbEedjMfhSIuZCIBrNUVUBVIIeWz8KRZGR/ka1RALsnG3NxcdMKVlRU8fHCfAHNFwmh/Fj8T
++blihMNhfG8TExPgcVl40aaKDSrI5mBqago72czMDFhMJsbHx+H1eqHVlmBtbW3HsaFQCAIOfWdQ
+6K4JR9JZiGfUahkMRkR0LC4uxh3LYdJj74g6ns3NzbgTJCUlgU6nxx1DHTefmxIbdM4owrORp3En
+ycnJIYpnPTe60VErjQ0K3DZAlMmE3/8y+tHq6io5stHRUQwPD0OlUkX8o8XY2Bimp6exvr7+A8Tt
+cuKYJH1bQm8L73c3dcgTslFbXQmTyQSBIBK6Viu6urrg8XhIIAwODqKzsxNVVVUQCoWwWCyRxflx
+5lQNyhWZJK92lbBUqdm/LxmBQAA/s42NDRKJaWwmrCouvgzssQTJhBz4fD44HA6YzWYolUqIRCKy
+A+opk8mg0+lgs9ngdDpRpi/GoybF3mtd6uGDsNvtxDezs7NYWloieTM/P4/l5WXiu4WFBbJrl8sF
+ZgoDnjr53kHyLA7cbjc5/61Ik8vlMBqNUKvVkEqlEIvF0Gg0xF+/vCMO/QB4GVwMDQ2RvIhlwWAQ
+NZHAodFo28rOrq8JT10eThQKcITLhEGjRNPF87h2pQVtzQ2wVJZDcpQX8WUa2ivF+HDL8Gfuo7fd
+JRhpLYL3Uj4e25V4FbkWqOj8d3+3vgKnkxJ6QLPVTgAAAABJRU5ErkJggg==
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_ndl45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAABjFBMVEX/zp4AAAA4LSP9zJ0BAQH4
+yJoCAgIFBAMGBQQ0KiB7Y0yTdluWlpbqvZH5yZr+zZ3x8fECAgEDAgIEAwIGBgYIBwUHBwcKCAYL
+CQcMCgcMDAwQDQoNDQ0TDwwVEQ0WEg4SEhIXEg4TExMZFBAbFhEcFhEfGhQhGxQlHhcmHxcmHxgg
+ICAoIBkqIhoiIiIkJCQtJBwuJRwzKSA1KyE3LCI3LSI7MCUxMTE+MidANChGOCtHOSxMPS9MPi9C
+QkJVRTVKSkpdSzldTDphTzxuWURnXVJ2X0mCalJ3cGhxcXF9dGx2dnZ9eHKbfWCRgG+hg2WkhGao
+h2iOioeMjIyOjo6Wko+4lHKZmZmfmpWfnZvDnnmfn5/Fn3rGoHvIonyppKDOpoDPp4CrqKWpqKeo
+qKjSqoLTqoOsrKytrazWrYXYr4fbsYizsrG2s7Des4rhtou5uLe6ubjpvJDrvpK/v7/tv5PuwJP1
+xpj3yJn6ypv7y5zW1dXZ2dne3t7j4+Pr6+vt7e3z8/P8/Pz///8fSBvsAAAAAWJLR0SD/LTP0gAA
+APJJREFUKBW1wWN7w2AABdB7l6TWbNu2bdu2bf7yJc2bLH3Wrz0HiBC/BDzdI5yBcq9SX4NwXHJx
+lS3PvSXhH3cMyUzb6/mEglDeEpmarNHA5glCtOV8pZGMJ0vfd25gsZ7RtUdVKsnK7xEJJr+TOjtV
+wx+TME0lUeegKuFzCAapmrr8Ampmr48hTCcyKHe8iJqOwCCE1sY5qgoXLrKpSfnph1AbV0HGOi/h
+imbQ2xiEHtJhb/fhoYy6uxkIj71NyQ3PUJopHC7fwnT6Al8LDYtnB7DqlGnwXO3DYiOdJs/RGiz6
++Gd1dwUW3XVRpqX5bUTAL922InNr5pioAAAAAElFTkSuQmCC
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_pdl45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAAAyVBMVEX/zp4AAADds4kbFhEXEw4/
+Myfsv5IBAQECAQEFBAMFBQMHBgQHBgUIBgUIBwUKCAcNCwgRDgoVEQ0WEg4YEw8eGBIeGRMhGxUj
+HBUjHBYlHhcoIBkqIhovJh0zKSAzKiA7MCU8MCVBNChDNipENypFOCtURDRVRTVpVUFyXEd7Y0yC
+aVGRdVqcfmGlhWamhmesi2qzkW+7l3TAm3fJon3MpX7TqoPgtYvhtovit4zpvJDwwpXxw5X1xpj3
+yJn5yZr8zJz+zZ3////P/yW2AAAAAWJLR0RCENc99AAAAJFJREFUKBXFwUUSwkAABMCZCO7u7u6u
+//8USShgkw0nDnQDf3LGF8dWpjSDqw7JnAduyiT9C7ipkkzs4WKqkQy075BcizQFx5AsQ7Q0IZn7
+aNEh8aRp8vYh60VoyJ4g2VTCNKhDOG3zfIoN4FDni7aCzSTKNx02DX6kdhDcChSMIFCSFHQhWMdV
+QQ2CiyI64AcPWGYJFWEO130AAAAASUVORK5CYII=
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_kdl45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABmJLR0QA/wD/AP+gvaeTAAADP0lE
+QVRIx+2We0hTURzH57OmG5ml7p8GgpSQJIKxspb0h6EgCzVqmIWObeaifCCklLrm3Ew3XZqPdFvS
+lq8UMTANw5gOtXLzWb76o0CF/oiCMDKqb94jGmE31LJ/6o8v93ce93zu73HOuQzYjfgbYvwH1akT
+iTYVJIkOBZezg4iyNw30oa8SmtRTRJS9aaCFx1UQHT9M9OlJ9eaBjh0MgDtzCxFl/zboy4ABL+7l
+42VbIT4P6EmfrTYHntvcwWAwiCib6qPG3lsrMHY3F28ela4dZFJKEH82DoXXVNAU5CNWeBKSE0dR
+oxBjG4u5AqJsRVIU+MEBOCcVQ1ekgTovF8IYAXprLv8aZNFnoqe7G0ajEREREYiJiUFpaSmmp6dw
+8XwSPNjfQSy3rZDnZGFqagpyuRyRkZGIjo5GR0cHzKbbGKyT04OyMtJRVFS0sthKmDw90dzcDL1e
+DwcHBzg5OS22m1BeXg4mk/nDXGrcbDYjT5H9c9DH/irU19WCz+evAi2LWlihUJCPUavVtPPCwsJw
+y2ig96iyohwCgYB2AWdnZywsLGB+fh6Ojo6080QiEVTKq/SgjKRYWCwWuLq60i4yOzuLmZkZ2nEv
+Ly8MDtpRfCmeHvSuuww5V5YKgsPhkBcpaFBQEPE0ISEBDQ0NMBgMCA8Ph5+fH8nXMsTf3x/Dw8NI
+lYlXbehV5f36oQ4XEkWYm5tD9yJwcnIS9fX1UCqVkMlkkEqlSE5OhkqlQktLCyYmJtDY2AidTofx
+8edIlZ4m+2pNG5Y6auJihQgMDKQN0bKoXIWGhqKvrxfy5DP4ajOs7wjav28PhEIhiouL0d7ejv7+
+foyNjREPqKfdbkdXVxdMJhPS0tLAD+Ghx5i5/rPuZtl1aLVakhtfX1+w2Wy4uLjAx8cHLBaL5M7b
+2xshISFISUlB+/029N1RrB8UHLAbEomExH9kZITIZrOhs7MTVqsVQ0NDGB0dJXmk8nXk0IGNeVRT
+XQatpgA8Ho94QpcjLpe7WCBitLa24tWDko1dE20lKQjj7cVODxa8trPJ04PtRk7upTYbfru8kSuL
+wlvLjT9zH810aPHUnI3OinRYF0P0rElJqvPf/d36BgNTju1QGor1AAAAAElFTkSuQmCC
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_rdl45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAAAkFBMVEX/zp4AAAAOCwkQDQozMzOl
+hWZERERoaGd4eHibm5tjY2KIiIgGBQQUEA27l3TTqoPwwpUKCAYRDgsVEQ0oKChBNShCNy5HPDBP
+T09SUlJhYWFmZmaGhoaampnDnnnFn3rGoHvUq4Pnu4/uwJPyw5b5ypr6yps/OTNDPDVxW0Z3YEp/
+Z0+BaFCWe1+YfGD///9COEaLAAAAAWJLR0QvI9QgEQAAAI5JREFUKJHNzrcOAkEMRVF7YIkTNuec
+yPz/50Gxsjz0IE5l6RbPAD/X6gbAaG0AGt3yMqLCbkClcOje58iSG6AnfIkofeFh4PIUrpmQpykr
+tqTIJj42J+VxUSaz/aIjcCEc+Mv02JDnR4rzwyKP7XJPdyS9WumGzIWFPjpXe1Kdop5SLdEia0oG
+VxY08A0v6nEKAxOAWQAAAAAASUVORK5CYII=
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_bdl45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAABEVBMVEX/zp4AAAAiIiK7u7sRDgtm
+ZmZ/Zk4TDwwDAgIJBwZ3d3cIBwUTEAw+MiYIBgUICAgODg4SDgsSDwsVEQ0WEg4bFhEWFhYbGRgg
+GhQkIyNGOSxvWUSBaE9oaGhzc3ORdVp4eHicnJzftIr2x5jh4eEEAwIFBAMKCAYPDAkRDQofGRMi
+GxUkHRYkHRclHhcpIRkwJx4xKB4zKSA8MCVCNSlRQTJeTDpfTTthTjxsWkluXEqDalGFbFKHbVSI
+blWLcFaMcVaNclePc1iPc1mQdFmSdlqEgoCGhIKqimmsi2uujWy5lXO6lnO8mHS+mXbIonzJonzV
+rITWrYXasIfbsYjpvJDrvpL6ypv8zJz9zJ3///+WnTJPAAAAAWJLR0RaA7ulogAAANdJREFUKBW1
+wcVWxDAABdD3Skha2o67G+7uDMzg7vL/P0JP6IKGsuJwL/BnT8/4xZEQA8TLk3nE20gkthDrwXcc
+/xExLtIMiEv8cJchLYvM3MPwPkMmG40kWfpA1I0g271em0zfImqXgXqdgX1EDcdJplIkJ5qI6iiG
+vA4Me8VRrXgA00uhNRZoFV5h2i5bWnkHprOR0ClM8y41dxGmbn855zi5lcMuvnk79kteVgll20qo
+rDe7do7QkkvNnp6yqU2u4sv6QqUqpaydXF81a1LKamVuE//gE2eqE0EggbygAAAAAElFTkSuQmCC
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_qdd45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAABmFBMVEXRi0cAAAAQCgWscjpVVVUT
+DQYBAQADAgECAQEJBgMgFQtEREQEAgEGBAIKBgMmGQ0mGg0vHxAyIhE1IxJONBs5OTlJSUnGg0PK
+h0XLh0XMiEUCAgEHBAIHBQIHBQMKBwMLCAQVDgcREREfFAsgFgsiFgsdHR0tHg85JhNELRcxMTFM
+MxozMzNTOB07OztdPiBiQSFFRUV+VCuBVSxbW1uOXjCOXzBiYmJkZGSeaTZ8bF2qcjq3eT69fUC9
+fkGCgoLHhETQikeQkJAEAgIIBQIIBgIKBwQMCAQLCAYLCQcOCQUQCgYQCwUPCwYTDQcXDwgaEQkb
+EgkcEwohFgsiFwsnGg0oGg0sHQ8xIBAwIBExIBExIRE3JBM4JhNLMhpNNBs4ODhVOR1XOh5VQzJY
+RjNGRkZqRiRqRyRHR0dISEhsSCVuSSV1TSh2Tyh4UCl5USl9UyuCViyEVy2IWi+RYDKTYjKXZTOd
+aTWfajaqcTqudDuydjx3d3ezdz14eHi0eD21eD23ej68fUC+fkHJhUXLhkXPikb////2PDN6AAAA
+AWJLR0SH+9kLywAAAU5JREFUKBW1wWVTAlEYBtDnvXeD7lYRFVAwsAuxu7u7u7v7dyuOq+uM3xzP
+Af7M48EvDjYbcKMbugfunvDDeWvTFrYlaQfHvf0PUNTEanEpBg7hzc72oVDyn6I2VoOkEZoCjjoB
+RCKAb2ABsNIoksalGYAbPYDNBjQYODAt2ZDkXtUAPLAPhELASRsHjGtufPDK5eBsDImMjATsjKNc
+9uKTJVjPmXhVZjCUPfYxXh+0QGHX5HJGjnyi/EViPFdjh8JBYjEj3QTR5DCxYpEcUJQQiYzSjET+
+NGIiUQkU8dRmWaPVppi0sjY9RTalxqF4NtEP6S/4stuTGXUJQmWlIGxEM7v2oFJdV7Gid+blOfXr
+FXXVUDvrCBcUCe+KCsLtVVBbarwudennnXpX6W3jMlQuukll8BXfCkmtpQrf3LM5VrNZl5WlM1us
+OXM+/Is3pd8uFhPhA+sAAAAASUVORK5CYII=
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_kdd45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABmJLR0QA/wD/AP+gvaeTAAADRUlE
+QVRIx+2W60vTURjH52XL6STvFxJJbctAky66nLRMnUtYYtNwGBRNXTLFliWoJeq0zetcrQmhmG5i
+4aWQMgXDdCiJpc4LJvbKF/Yf+MJX3/Y7oRX2C7XWm3rx5fec33M4n/P8nuc858eYbxDjb4jxH1R3
+5TiRXUHp/CAEergQUbbdQNOaJNy+eJSIsu0G+lArQlp0ENFMbbL9QLE8H7BZTkSU/dugufpkvCo5
+i+EyIebqvu78mSoWB12ZYDAYRJRNvaN872qS8PxOHCxVCbsHabKicDUrE3WaatRrayC7fAkZcSGo
+kUWA4+K8DaJspfgIoo8FQ5F9DbrGOtxXVyBDIoKpgP9r0JMCASzjY2hvb0dKSgrS09NhMBjwaXUV
++Xm5cGd/A7keYKKi/C5Wbb7KykpIJBJIpVIMDw/D3NmBnqI4elDJLSV0Ot32Ylvy8vJCf38/2lpb
+4eDgACcnJ/T39aGlpQVsNvuHuZS/q6sL6vLSn4Pea0XoMnVCKBTuAG2JWlitVpPNaLVa2nkikQjt
+ba30ERkeNCMtLY12AWdnZ2xubmJjYwOOjo608+RyOWqqyulBeVIhxsfGwGKxaBcxmUzo7e2l9fv6
++mJudhalmdH0oMnqRJQVqzBmg/n7+5NcCAQCFBUVwWg0oqenB9PT05icnIRer4dCoUBkZOQ2JDw8
+HPPzVuRfl+040DvK+23FeSjlWfi8vo61tTV0d3dDqVQiPj4eXC4XoaGh4PF4SEhIQGFhIQYHB7G4
+uAiz2YyPy8u4kXmBnKtdHViq1YQdDoK3tzftJ/peAQEBeKjXIUccAWv9HltQFPcQZDIZmpubMTQ0
+hKmpKSwtLWFlZYU8Z215GB0dJZFQn1YQcwIdypi99zqjvgFNTU1ITU1FSEgI3N3dwWQySe44HA4p
+GD8/P5JDlUqF14Mv8bQ4ae+gyLBA5ObmkgJYWFggmpmZwcjICCYmJmC1WkluLBYLNBoN4vgn9xdR
+q6EBjfW14PP5JBK6/AQH23pdTjYGBgbwplqyv2vikfwUzvC84eHGhBeHBU83Ful3VOf2tI09bONg
+H1cUiLmYUCf+mfto5N45dN+MxWPFaXTm8/HCdi1Q1fnv/m59Adz+MycOKo6wAAAAAElFTkSuQmCC
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_pdd45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAAAw1BMVEXRi0cAAAC1eD4WDwcGBAIT
+DQYZEAgqHA7BgUIBAQABAQEEAwEFAwIGBQIHBQIIBgMLBwQOCQURDAYSDAYTDQcbEgkcEwkdEwoe
+FAohFgsiFwwnGg0xIBExIREzIhE0IhE1IxI3JRI4JRM5JhNFLhdGLhhWOR1ePiBlQyJrRyR3TymA
+VSuHWi6IWi6NXjCTYjKZZjSdaTWlbjinbzmtczu3ej64ez+5ez+/f0HFg0PGg0PJhkTKh0XMiEXP
+iUbQikf///8gAF40AAAAAWJLR0RA/tlc2AAAAJBJREFUKBXFwUUSwkAABMCZOO7u7u7+/1+RhAKW
+bDhxoBv4kxO+ODSN4hS+2iSzFvyUSIbm8GOSTO7gY6KTDLdukFwKdGgjSBYaXQ1IZkG6qpBYBh2B
+HmTdKG2ZIyRrM0KbOoDXJseHeB8eFT6ll/gwjvGlhg91vulbCK55CoYQKCkKOhCsEqqgDMFZEe3x
+gzunxAijSTP8aQAAAABJRU5ErkJggg==
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_qll45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAACLlBMVEX/zp7///8AAAClhWaqqqp4
+dXO2trbds4kTExOdnZ27u7v7y5z8zJwtKCPuwJPCwsLGxsb6ypv9zJ3+zZ3z8/MREREUFBQXFRMV
+FRUZFhIcGBQdGhYhHhohHhsmIyApJiMqJyQzLSczLyw5NTJHOi1FOzFXSj1aTD9WU1BjU0RcWFVj
+YV+BalKLcVmOc1qafF+hgmSPjo67mHWbm5vAm3fBnHigoKCkpKSlpaTWrYXjt426urrqvZHyw5bE
+xMT3yJnIyMjMzMzOzs7V1dXi4uLn5+fs7Ozu7u4EAwMLCwsODQ0ODg0RDw0UEg8bFxQbGBQkHxog
+Hx8hICAlIR0lIyAoJCAnJCErJR4pJSErJiEqJiMtJyIrJyQrKCUuKCMuKSUvLCgvLCk3LiY0MjE5
+NjM3NjVMPjFNPjFDQD5NQTZOQjdQRDhXRjZOS0dZSz1NTU1RTkxRUVFUUlFmVUVpWEdbWVdrWUhd
+WldbWlldXV1eXl5yX0x0YE12Yk55ZFB6ZVB7ZVFoZmRpZmRoZmV9Z1Ftamhua2mFbld1dHORdlyR
+d116eXh9fHuZfGCAfn6Af32egGKggmSlhmeHh4eoiGiIiIiJiYmKioqMi4uQkJCykG+zkW+0kXC5
+lnO6l3TCnXienp7EnnnGoHvKo33RqYHSqoLTqoPcsoiysrK0tLTftIq3t7e4uLi5ubnluY7rvpLv
+wZTzxJf0xZfHx8f4yJrl5eX29vb39/f9/f3+/v4A5u7XAAAAAWJLR0QB/wIt3gAAAZRJREFUKM9j
+YKAYLGfHIsjTUMbHYJSYYMQgPHsRqtTE5hnVDHVmC+oZugpSTOHCczUXMszKKGpnsPL3s2IoMevo
+ZZivOQ8kszGGLYKHIYdJkIFBSoqBYZ1Hkj1PKFvUJqCUffz0aGEGZqZVDAzS0gwMG5gMGIQjp/Fu
+AWlbks7EzcDs3cJgq6Bgy9DJxMzAzZS2DGKZJZMuA3NjMI+JlpYJQ1wpM4MukyXUHdzicuzMrOVz
+9AwN9UxzWZnZ5cS5YW7ktVBlZuXPVufnV89jY2VWteCFO1/NQUOFdWesj4iIb9gOVhUNBzW4lA6n
+K5M2Yw+TyFambkZtJldOHbjUJK9UMVEOCY7AICAhKpbsOQUutZhppfN2RijY5ryCaSkiCGva3J3Y
+WFiMjVlYVju5t9Yiha6QZBXnWi4BR0cBrjWclZJCyCGv3+9iZ80CBNZ2Ln36yDJCAflTzdm4Ngtw
+sZlPLgxHljJoYkQCIciRXTzTDSHjVjEBSYo9S1FGVl5JWVlJXlZGMXM9evoQ5LOx4ROkNOkBAKn4
+Tr4qHJgJAAAAAElFTkSuQmCC
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_ndd45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAABlVBMVEXRi0cAAAAuHg/PikbLh0UB
+AQACAgElGQ0tHg94UCnAgEHMiEXQikeWlpbx8fEBAQECAQEDAgECAgIEAgIEAwEFAwIFBAIHBAII
+BQMJBgMGBgYKBwMHBwcNCQUPCgYRDAYSDAYMDAwTDAYNDQ0VDgcWDwcXDwgbEQkbEgkSEhITExMe
+FAofFQofFQshFgsiFwwqHA4rHA4rHQ8sHQ8gICAxIBEzIhEiIiI1IxIkJCQ5JhM6JhQ+KhU/KhVG
+LhgxMTFMMhpNMxpQNRtaPB5gQCFCQkJkQyJlQyJsSSdKSkpdT0B/VSuHWS6FWi+JXC+XZDNwZlyB
+aFF1aV2gajahazeibDekbTd4cGipcDlxcXGqcTqscjqtczuvdTx2dnazdz2ydz62eT64ez+/f0HB
+gEHCgULDgkKLhoHJhkTKh0XNiEbOiUaMjIyTjomOjo6akouZmZmdmpeknpifn5+opKCop6aoqKit
+rKusrKyzr6uysK+4t7W5t7W/v7/V1NTZ2dne3t7j4uLr6+vt7e3z8/P8/Pz///+zVaBgAAAAAWJL
+R0SGjN47XQAAAPRJREFUKBW1wWN7w2AABdB7l9SYbdtmZ9u2bRv/e0nzJkuf9WvPAULELQEHOwim
+u9wp2ysQTJ+lxGbNdcxL+MdhJZkR9fowISOQszScqsJV7+U6ArQUfWWTjCdr3q+3YDKTPnBLRSrJ
+xu9JCQZ3JTUxVCx8jMAwnEhNHBUpn+PQSTZq8vKpOn5egTCaQL+coWKqerz9EJp9p1QUjG1kUZX5
+MwihOqmejKzaRG8E/d7mIHSQsdGtLuyWUfOyB2G/sy659hByA4X7i20Y1o7gaqLu/HEZZm0W6jxP
+SzCZTaPBczcNky7+ubqZgkm7PcxwdrKIEPgFkqkj27UxjxcAAAAASUVORK5CYII=
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_bdd45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAABCFBMVEXRi0cAAAAiIiK7u7sHBQJo
+RSNmZmYOCQUPCgUCAgF3d3cHBAIQCgUQCwUeFAoICAgOCgURCwYSDAYODg4WFhYZGBUzIhIjIyM6
+JhRaPB9qRiR1Tih3TyiYZTRoaGhzc3Ozdz14eHi3ej7KhkScnJzh4eEDAgEEAwIIBgMMCAQNCQUW
+DgcWDwcZEQkaEQkbEgkcEgkiFgsnGg0oGw4qHA4xIREzIhE2JBJCLBdNMxpONBtPNRtcQihdQylr
+RyRtSSVuSiVwSiZyTCZzTCdzTSd2Tyh4UCmMXC+NXjCPXzGaZjScaDWkbTilbTivdDuvdTy/f0GC
+gH7BgEGEgX7NiEbPiUbPikb////vkPjmAAAAAWJLR0RXfQrZHwAAANVJREFUKBW1wcVWxDAABdD3
+SkJTKuPuhrv7wAzu/v+fQk/ogoay4nAv8GftNn5xZqdrSLZALiLZnuseINFDUYjiIxJcpRmyr/HD
+nSIti1T3MLwvkalWK0UufyDuxib7g0GfVLeIO2ao2WToBHG1aZK5HMmZOuK6HiN+F4ZhYVIrnML0
+lO9MhTr5F5gOS5ZWOoLpdSLyDFPgUhNrMPVGG1khspvjHr55O99e8TOerRxH2V7GX925RGRdUHPm
+5xxqs1v4shuUK1LK6kWjUa9KKSvlYB//4BNa/hJ0owrAaQAAAABJRU5ErkJggg==
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_bld45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABmJLR0QA/wD/AP+gvaeTAAACdklE
+QVRIx9WWO0xTURzGO5swkKAWLJdCn9yWvqvBRx+2VFBqLQ3BB0qgWHURGtGCGnGqrZQiDbQUXBjq
+yuBgw2JcTQxxL6Fbu5IOpNPnPSehFiMm9lKDX/Il/5z/d84vufmfkyv4PncF/8KCYwv6GLpEXVfQ
+qyE9TFoWRg2L2ZuG+oEU4maUSiVqUtcNdNfB4lFgHA/GxzDSo6oPaGPqAhyGDojOCKkdhnZsPL14
+tKB3o0YoOlqxubmJfWWzWcjEIiTGjEcDyjzuxlm9GsVikQK2t7epiQqFAsw6FT5wGV6gragLGjmD
+fD5PD97b20MsFqMmNdHOzg60XGbrrat20GrAhNHhocrn8vv9YBiGmtT7Grk9iPcPzbWDgm4WyWQS
+1UqlUtTVIpmJa/LaQTMDaszH5g4curu7S12taOQNXvjUtYM+PbfQl6BcLuMwkZ5J00mzvKYuNKCF
+qEWIcDiMdDp9wNFolPZmfFr+4/151g6BQIDJyUlEIpEDDnJrpPfltZ0/6I5dgUQiUbk/v3pxcRHD
+l5X8QScbG2C1WuF0On9rm82GxoYT/EFKpgnPngQrr0G1crkcpoIT6Go/xR/0NexEyKuCRSeBWtYG
+hayDWsXVVr0U0141zfwV6FvEhZeDGrjMUnRJRWhrboKEEULSKuQeVQa9DgvW1la5iVuhNXloSY9k
+SFYrb0XfOTni9/R/Bumlp+HzerC0tERvPxnhTCaD9fV1Wsfj8/B5rsLd14OFhThdIz2SIfXy8jId
+DqNOg/Nsy+GgfrMYBiWD/m45Ar0sgtfVP+1WYfpGJ1bum6hDHiVdq86QPWSvnjvjllX2n/wFHXvQ
+D2HX00uDBgJYAAAAAElFTkSuQmCC
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_pld45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABmJLR0QA/wD/AP+gvaeTAAABy0lE
+QVRIx+3WOUiCYRzH8RdqbAk6UbvfDjOFzMgOs9KkopOOxSDtIBo6qei+iMwgqawIojEjiIaGImjI
+KaIoBVc3XVx0E0V/ZUNUCPnWU0t94T9/eF/+z8NDmdYU+I2h/qFfge41lTgZKcL1QvnPQaejxaAT
+YlEtlyI9hYPhev7PQAW8JJhMJgTyeDyokIhxPFRIFnrUKpDMicfbtKsaTDdxyX8RRVGwWCwviN/v
+RyKHBb06lyw00sBHlbwMDofjFdrZ1kNAs3GzLCMDXc1IkZuTAa/Xi4/t6LfQX8sjA801Z2N5aRHB
+cjqdyE5lkYHG6rOg0+mCQoHtS2ZFk4GOBsWoeT47wbq4OEeLJJPcMhRksTE5Mf4OsVqtCA8Lw9l4
+CRloq1OE+OhIDA32w+12v0JGoxFxMVFolaTjTiP/HnTQlw8hnwubzRb01/l8PszPTqFOTH8dul2R
+Q5CRBLvdjs/q6lBivUP4NWi0kY/NjXWEUmDNc2gOHrSVzCFeGhsulwuhplK2Yb9XxAy6nC5FoUgA
+JhkMBvQouMyg3S4hulVKRpDZbIYsj2YGaZWCl9ta3d4W8tRWyRATGcEMupqVYq8nj/EcDoj/0Cvo
+CYPxPj0MZZNLAAAAAElFTkSuQmCC
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_nld45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABmJLR0QA/wD/AP+gvaeTAAACt0lE
+QVRIx+WWW0iTYRjHpxGWhwxLp23TuYOHb8svN5spOZ2bs4PrxoQ8pAXaRVSKBC1xYWZISjm6ML0x
+FEayvLLIKIJllM4QFwy9sKtdjF0MptJFrtm/fV8gyPzGvhjd+Ifn4j3+3ufhfZ735XwbrMb/MM7e
+As316fCpt3K7/cFUgcmOkuiDzqtEiImJwVRnKQ3JyUpHUsJBLD3SRxfUoMlHV1cXOBwO4g/sh9Vq
+RWlxEZoqpDDVErD1aKIDaiwXY3R0BKurq3A4HKDkdn2HxWJBzbkzSE5KhFyYitdG9b+DqHDlijOx
+uLiIzc1N7KatrS2Yh4ZwOCkBj1sU7EGOgWqQUh7Gx8fpsNnt9h2A37/8O9rLy8vgpqbAcquEHajv
+Eomm+joYjUbExcWFeBT4+SPEu+npafC5R/DlgTYyEHWlRXwu3G43vF4v/H5/yKbX2towOzsb0l+l
+06LdII8M1F4jQ8+9bjBpbW0N2UIhfD5fyJjNZoMgIxVf+6vCgz4H3c4OerO+vr4rJBAI4GyVBkLB
+McaDHJcTeHpVER7UeUGGh329u26wsbEBfaUaV7R5UBXKGUEGgwGXg3PCgkgpH2azGQRB7Fi8srIC
+UpYDUx2JkbYitLY0MoKGh4ch5qeFBwl5aXC5XJiZmYHT6aQXWq2TkAi4eH5dRc+p1xB4GxxnEpV3
+R1OSsTSgZwZplRIaMjY2RufP1EsrFLn87VLzor0EZacUCCePxwMBLx3vu8uZQW/uqqFTirEvNpYG
+5Wdn4OP9v9X71Z0yyKSZdDkKJ6pa5EhEmLhRHFlleNaq3Ia8C54uX8TDwsICIhFZIMeT5hPsHj4q
+1ipCiPn5OUSqQrIA/Q0F7ECDzQrc7rgJNjpZpGQPuqjOozOejdRlp9mDMlIScCgxHlk8bsRGXSRT
+rWwv/4KiaX8AEV1c9glnCbMAAAAASUVORK5CYII=
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_bll45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAABgFBMVEX/zp7////d3d2Ib1eZmZlE
+REQeHBuIiIgqJyOXl5cAAAAeHh4iHhsmIh8nIx8sJyI4NDFOQjdMSEVZSz5jY2N6ZVCMjIyWlpah
+oaGlpaXftIr2x5jx8fHz8/P39/f5+fkTEQ8YFRMoJSIuJyApJyUpJyYvKiYwKyc0LCUzLSc0Lig1
+Lyg1Lyk6MSg4MSo5Mis2My81MzE3MzA3NDA5NjJFOS5HPTRJPzU/Pz9AQEBRRTlVSDxaSjtQTUpW
+U1BVU1JqWEZsWkduW0luXEpxXkxiX1tkYV1oZmVqaWeIblWIb1ZwcHBxcXB1dHKRdVqQdVuPdVx3
+dnSSdlqRdlyRd12Td12VeV6Wel+XfGGZfWKGhoaKiYiJiYmsjGuOjYyvjm6Pjo6Qj4+xkG+RkZGS
+kZGTkpKUlJSVlZW5lXO6lnO8mHSamZm+mXacm5vJon3Ko33VrITWrYXasIfbsYi4uLi6urrpvJDr
+vpL6ypv8zJz9zJ3c3Nzf39/g4ODn5+fo6OjYpYIVAAAAAWJLR0QB/wIt3gAAAPJJREFUKBW1wdN2
+xFAABdBzMmmasa3atm3btm3+erOmfWhu06eu7g382dU1frFQXbEIY8543Alj3QP9PTB04VYU9yUM
+rKu35E3WFn44q3mnJPHNdQ7BY9ErE4FAgi8lT9A76iN9VquP7D2B3lCQpNlMMjgIvdk1krEYyeU5
+6EVcSaYkqyIQTChLsmZFmYHozjKcrhmx3EPUuSul7HRBlNmQltKYAVH2pETN82gBRNHxuvyc3Lz6
+6Si+eZhvKrQ57Krn9Nij2h224uZVfClt3zPL4ZC80da6KYfC8v52ZS0+tZR7/SbN1OHBmEnj95Z1
+4B98AFfEIka3Tt35AAAAAElFTkSuQmCC
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_rld45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAMAAACelLz8AAAAqFBMVEXRi0f///8fGxeJiYnMzMwA
+AAASEhFYV1WHWi52cW6XlZKBfXmZmZn28/HFg0MhHx4nIx9iXVeZZjStczsaGhktIhgwKyc8LR5C
+MB84Mi1TUE5cWlhdWligajahazeibDdycG2udDu9fkDDgkLGhEPOiEalpaWurq4aFA4gGBEZGBga
+GRgsIhkwJhtlRSVkRSduSihwTSt6Uip9VCuBVSyBViyYlpWqqKd/xpxQAAAAAWJLR0QB/wIt3gAA
+AKBJREFUKJHFzscOwjAMgOEECLSMJk269y57j/d/M3oIkds78J0s/bJshH4u5QlCgnOBUMJTWCpi
+krwkpknKvBsrkAwfB8yhGFOHBdg3YGITgMFUr8O5Em5qeMywo4UU2XCp88iwlN0H32v6J+naH9N1
+u5R2t0FyXyvp6fbLmUwVcuylS4OV5gRC4R2smWLtvUKlmLZjoKWxSoKMeohA3/AGgKwMzS9YFoQA
+AAAASUVORK5CYII=
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/I/26px-Chess_pll45.svg.png
+
+iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAABmJLR0QA/wD/AP+gvaeTAAABzUlE
+QVRIx+3W2yuDcRzH8af4CxRZOea4ZHLa4sIhx8jhAuUYmsONmrXE5HxoTj0Iy/FKJnEhyqLISjln
+09yo3WhzMRdbKbO1fZgLoZU9/LjhXd/rV8/T9/frR+F8Ab8x1D/0K5D5eBaXKz242xv/OehqrQ/s
+QD/kZqWDHRwAiaD4Z6AkXgSUSiXsmc1mZKQk4mK5iyxkO5tHoL8P3jY0OACpuIL8F1EUBbVa/YLY
+bDb4+Xpjc0xAFhoUliA7Mx16vf4Vkk5NIpYTivsDKRlIt02DG8WBxWLBx+xYb0MRGWi2rRL9fb1w
+lMFgQGRYEBmIFpVglKYdQvbtC/L3JgOdLXU8n50Mh5BcLge/II3cMiTzwtEqbnmHaDQauLq64Hpd
+QgbaeF5hL5YHhI0CmEymV0ihUIDl6YHawlQ8Hs18D9qfawY3OgJardbhr7NarejubEdZbuLXoYfD
+acRw2NDpdPisOn4VVocbvgaNiEoxMT4GZ7KveVR4CKyn88yhyLBgGI1GOBu/qhy7003MoJutESTE
+c8EkmUwGMT+PGSSfFKK+ppoRpFKpkJcaxwxaltS/3Na11RVOT35OFljubsyg2x0aO1IR4zlZbP9D
+r6Anm6XOxoahF+sAAAAASUVORK5CYII=
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-FD06AB8F:http://wikipedia.uho.edu.cu/skin/jqueryui/css/smoothness/jquery-ui.custom.css
+
+/* Effective stylesheet produced by snapshot save */
+.ui-widget-header { border: 1px solid rgb(170, 170, 170); background: url("=
+http://wikipedia.uho.edu.cu/skin/jqueryui/css/smoothness/images/ui-bg_highl=
+ight-soft_75_cccccc_1x100.png") repeat-x scroll 50% 50% rgb(204, 204, 204);=
+ color: rgb(34, 34, 34); font-weight: bold; }
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl { border-top=
+-left-radius: 4px; }
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr { border-to=
+p-right-radius: 4px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl { border-=
+bottom-left-radius: 4px; }
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br { border=
+-bottom-right-radius: 4px; }
+button.ui-button::-moz-focus-inner { border: 0px none; padding: 0px; }
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://wikipedia.uho.edu.cu/skin/jqueryui/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-F34697A4:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/shared.css
+
+/* Effective stylesheet produced by snapshot save */
+body.ltr .thumbcaption { text-align: left; }
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-192AC773:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/commonPrint.css
+
+/* Effective stylesheet produced by snapshot save */
+#toc { border: 1px solid rgb(170, 170, 170); background-color: rgb(249, 249=
+, 249); padding: 5px; }
+html .thumbcaption { border: medium none; padding: 0.3em 0px 0.1em; }
+div.tright { float: right; clear: right; border-width: 0.5em 0px 0.8em 1.4e=
+m; }
+body { background: none repeat scroll 0% 0% White; color: Black; margin: 0p=
+x; padding: 0px; }
+.noprint, div#jump-to-nav, div.top, div#column-one, #colophon, .editsection=
+, .toctoggle, .tochidden, div#f-poweredbyico, div#f-copyrightico, li#viewco=
+unt, li#about, li#disclaimer, li#privacy, #mw-hidden-catlinks { display: no=
+ne; }
+ul { list-style-type: square; }
+h1, h2, h3, h4, h5, h6 { font-weight: bold; }
+p, .documentDescription { margin: 1em 0px ! important; line-height: 1.2em; }
+a { color: Black ! important; background: none repeat scroll 0% 0% transpar=
+ent ! important; padding: 0px ! important; }
+a:link, a:visited { color: rgb(85, 34, 0); background: none repeat scroll=
+ 0% 0% transparent; text-decoration: underline; }
+#globalWrapper { width: 100% ! important; min-width: 0px ! important; }
+a, a.external, a.new, a.stub { color: black ! important; text-decoration:=
+ none ! important; }
+a, a.external, a.new, a.stub { color: inherit ! important; text-decoration:=
+ inherit ! important; }
+img { border: medium none; }
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-77B71ACD:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/main.css
+
+/* Effective stylesheet produced by snapshot save */
+body { font: x-small sans-serif; background: url("urn:not-loaded:http://wik=
+ipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/headbg.jpg") no-repeat scroll=
+ 0px 0px rgb(249, 249, 249); color: black; margin: 0px; padding: 0px; }
+#globalWrapper { font-size: 127%; width: 100%; margin: 0px; padding: 0px;=
+ }
+table { font-size: 100%; color: black; background-color: white; }
+a { text-decoration: none; color: rgb(0, 43, 184); background: none repeat=
+ scroll 0% 0% transparent; }
+a:visited { color: rgb(90, 54, 150); }
+a:active { color: rgb(250, 167, 0); }
+a:hover { text-decoration: underline; }
+img { border: medium none; vertical-align: middle; }
+p { margin: 0.4em 0px 0.5em; line-height: 1.5em; }
+h1, h2, h3, h4, h5, h6 { color: black; background: none repeat scroll 0% 0%=
+ transparent; font-weight: normal; margin: 0px; padding-top: 0.5em; padding=
+-bottom: 0.17em; border-bottom: 1px solid rgb(170, 170, 170); }
+h1 { font-size: 188%; }
+h2 { font-size: 150%; }
+h3, h4, h5, h6 { border-bottom: medium none; font-weight: bold; }
+h3 { font-size: 132%; }
+ul { line-height: 1.5em; list-style-type: square; margin: 0.3em 0px 0px 1.5=
+em; padding: 0px; list-style-image: url("http://wikipedia.uho.edu.cu/I/bull=
+et_0.gif"); }
+li { margin-bottom: 0.1em; }
+form { border: medium none; margin: 0px; }
+#bodyContent h1, #bodyContent h2 { margin-bottom: 0.6em; }
+#bodyContent h3, #bodyContent h4, #bodyContent h5 { margin-bottom: 0.3em;=
+ }
+.catlinks { border: 1px solid rgb(170, 170, 170); background-color: rgb(249=
+, 249, 249); padding: 5px; margin-top: 1em; clear: both; }
+#toc, .toc, .mw-warning { border: 1px solid rgb(170, 170, 170); background-=
+color: rgb(249, 249, 249); padding: 5px; font-size: 95%; }
+#toc h2, .toc h2 { display: inline; border: medium none; padding: 0px; font=
+-size: 100%; font-weight: bold; }
+#toc #toctitle, .toc #toctitle, #toc .toctitle, .toc .toctitle { text-align=
+: center; }
+#toc ul, .toc ul { list-style-type: none; list-style-image: none; margin-le=
+ft: 0px; padding-left: 0px; text-align: left; }
+#toc ul ul, .toc ul ul { margin: 0px 0px 0px 2em; }
+#toc .toctoggle, .toc .toctoggle { font-size: 94%; }
+html .thumbcaption { border: medium none; text-align: left; line-height: 1.=
+4em; padding: 3px ! important; font-size: 94%; }
+div.tright { clear: right; float: right; border-width: 0.5em 0px 0.8em 1.4e=
+m; }
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://wikipedia.uho.edu.cu/I/bullet_0.gif
+
+<!DOCTYPE html>                                                          =
+                                                            <html xmlns=3D"=
+http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset=3D"UTF-8" />
+  <title>Welcome to Kiwix Server</title>
+  <link type=3D"text/css" href=3D"/skin/jqueryui/css/smoothness/jquery-ui.c=
+ustom.css" rel=3D"Stylesheet" />
+  <script type=3D"text/javascript" src=3D"/skin/jqueryui/js/jquery.min.js">=
+</script>
+  <script type=3D"text/javascript" src=3D"/skin/jqueryui/js/jquery-ui.custo=
+m.min.js"></script>
+<script>
+$(function() {
+$( "#accordion" ).accordion();
+});
+</script>
+</head>
+<body>
+
+<div id=3D"accordion">
+  <h3><a href=3D"#">Wikipedia</a></h3>                            <table st=
+yle=3D"overflow-x: hidden; overflow-y: hidden; margin-top: 0px; margin-bott=
+om: 0px; padding-top: 0px; padding-bottom: 0px; width: 100%; "><tr>      =
+                        <td style=3D"background-repeat: no-repeat; backgrou=
+nd-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAAB=
+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
+rMDI6MDCfKCJ6AAAAAElFTkSuQmCC)"><div style=3D"width: 50px"></div></td>   =
+                           <td style=3D"width: 100%;">La enciclopedia libre=
+<table style=3D"font-size: small; color: grey; width: 100%;"><tr><td style=
+=3D"width: 50%">Size: 10,366,074 MB (1,070,530 articles, 666,304 medias) =
+                                  </td><td>Created: 2012-03-20</td></tr>	=
+				                                  <tr><td>Author: Wikipedia</td><td>Lan=
+guage: spa</td></tr>                                   <tr><td>Publisher:=
+ Kiwix</td><td><button style=3D"align: right; right: 0px; float:right;" onc=
+lick=3D"window.location.href=3D'/wikipedia_es_all_03_2012/';">Load</button>=
+</td></tr>                                 </table>                      =
+        </td></tr>                             </table>
+</div>
+</body>
+</html>
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-AB0099D1:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7ECommon_0.css
+
+/* Effective stylesheet produced by snapshot save */
+ol.references > li:target, sup.reference:target, span.citation:target, cite=
+:target { background-color: rgb(221, 238, 255); }
+.citation { word-wrap: break-word; }
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-AAAC013B:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7EPrint.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-813F1F16:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/MediaWiki%7EKiwixOffline_0.css
+
+/* Effective stylesheet produced by snapshot save */
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-FE77E806:http://wikipedia.uho.edu.cu/skin/jqueryui/js/jquery.min.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-46A6642F:http://wikipedia.uho.edu.cu/skin/jqueryui/js/jquery-ui.custom.min.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-6134DB9E:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/wikibits.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92
+Content-Type: text/javascript
+Content-Transfer-Encoding: quoted-printable
+Content-Location: urn:snapshot-555BE5FC:http://wikipedia.uho.edu.cu/wikipedia_es_all_03_2012/-/gen_0.js
+
+/* Script removed by snapshot save */
+
+------=_NextPart_000_0000_A3B63E2B.574F5D92--

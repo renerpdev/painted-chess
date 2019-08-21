@@ -1,0 +1,123 @@
+Menu Iniciar - PINTADO XADREZ 1.0
+Preencha todos os dados do jogo
+Peças Brancas
+Peças Pretas
+Recursos da placa
+Limpar caixas:
+Caixas escuras:
+Nome:
+Cor:
+Começar
+Computador
+Não pode haver CORES IGUAIS
+Não pode haver NENHUM NOME IGUAL
+Não pode haver CAMPOS VAZIOS!
+Aviso
+Mostrar movimentos possíveis
+Arquivo
+Novo Jogo
+Salvar jogo
+Carregar Jogo
+Saída
+Ajuda
+Sobre nós
+Tutorial do jogo
+Peças
+Peças de Comida
+Histórico de Exportação
+Se você sair do jogo, os dados não salvos serão perdidos
+Deixando o jogo ...
+PAINTED CHESS 1.0
+História do Xadrez
+Horse
+Torre
+Lady
+Peon
+King
+Bispo
+Caixa Ameaçada:
+Caixa Vazia:
+Caixa Selecionada:
+O jogo foi salvo com sucesso
+O logger está vazio
+Carregar um jogo apagará os dados não salvos dele.
+Carregar novo item
+Não foi possível carregar o arquivo
+Erro
+Ocorreu um erro ao tentar salvar o arquivo
+Escolha uma peça para mudar
+Rei de
+está em JAKE
+Se um novo jogo começar, os dados não salvos serão perdidos
+Game Over
+Ambos os jogadores têm apenas o rei
+Use as peças originais
+Não há mais movimentos possíveis
+Jogo de tabuleiro
+você perdeu o jogo
+vc ganhou o jogo
+Não é possível conectar
+JAKE MATE
+Novo jogo
+Fim do jogo
+Criador do jogo:
+Companhia:
+E-mail:
+Telefone:
+tem o rei afogado
+Vermelho
+Junte-se ao servidor
+Criar servidor
+Carregar Histórico
+Não é possível conectar
+Jogar
+Jake
+Formato de hora errado
+Especifique uma hora de início [0 - 90] minutos
+Cor OK
+Hora de Partida:
+Placa invertida
+Hora de Partida Terminada
+Multijogador
+Menu Iniciar
+Vá para o menu iniciar
+Se você retornar ao menu Iniciar, os dados não salvos serão perdidos
+Escreva um nome mais curto [1-12]
+Se você reiniciar o jogo, os dados não salvos serão perdidos
+Restart Game
+Pausa
+Continue
+(JOGUE EM PAUSA ...)
+PARABÉNS
+AZAR
+Tem certeza de que quer sair?
+Servidor IP:
+Conectar
+IP está incorreto
+Host:
+Banco de dados:
+Nome de usuário:
+Senha:
+Porta:
+Status da conexão
+Você se juntou ao servidor
+O servidor foi criado
+Sala de espera
+Servidor:
+Convidado:
+Não há jogo criado nesse servidor
+Conexão interrompida
+Criar
+Se você sair, a conexão será perdida
+Você quer começar o jogo novamente?
+Tem certeza de que deseja desconectar?
+CLIENTE
+SERVIDOR
+Eu não poderia ter o mesmo nome que o servidor
+Créditos
+Designers:
+Programadores:
+Pesquisadores:
+Testadores:
+Todos os direitos reservados
+seu rei está em JAKE

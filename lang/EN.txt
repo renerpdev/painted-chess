@@ -1,0 +1,123 @@
+Start Menu - PAINTED CHESS 1.0
+Fill in all the game data
+White Pieces
+Black Pieces
+Board Features
+Clear boxes:
+Dark Boxes:
+First name:
+Colour:
+Start
+Computer
+There can be no EQUAL COLORS
+There can be NO EQUAL NAMES
+There can be no EMPTY FIELDS!
+Notice
+Show possible moves
+Archive
+New game
+Save game
+Load Game
+Get out
+Help
+About us
+Game tutorial
+Pieces
+Food Pieces
+Export History
+If you leave the game, unsaved data will be lost
+Leaving the game ...
+PAINTED CHESS 1.0
+Chess History
+Horse
+Tower
+Lady
+Pawn
+King
+Bishop
+Threatened Box:
+Empty Box:
+Selected Box:
+The game has been saved successfully
+The logger is empty
+Loading a game will erase unsaved data from it.
+Load new item
+Could not load file
+Error
+An error occurred while trying to save the file
+Choose a piece to change
+The king of
+is in JAKE
+If a new game starts the unsaved data will be lost
+Game Over
+Both players have only the king
+Use the original parts
+There are no more possible movements
+Board game
+you have lost the game
+you won the game
+Unable to connect
+MATT JAKE
+New game
+Game over
+Game Creator:
+Company:
+E-mail:
+Phone:
+has the drowned king
+Net
+Join server
+Create server
+Load History
+Unable to connect
+play
+Jake
+Wrong Time Format
+Specify a starting time [0 - 90] minutes
+OK Color
+Match Time:
+Inverted board
+Match Time Finished
+Multiplayer
+Start menu
+Go to start menu
+If you return to the start menu, the unsaved data will be lost
+Write a shorter name [1-12]
+If you restart the game the unsaved data will be lost
+Restart Game
+Pause
+Continue
+(PLAY IN PAUSE ...)
+CONGRATULATIONS
+BAD LUCK
+Are you sure you want to leave?
+IP Server:
+Connect
+IP is incorrect
+Host:
+Database:
+User:
+Password:
+Port:
+Connection status
+You have joined the server
+The server has been created
+Waiting room
+Server:
+Invited:
+There is no game created on that server
+Connection interrupted
+Create
+If you leave the connection will be lost
+Do you want to start the game again?
+Are you sure you want to disconnect?
+CLIENT
+SERVER
+I could not have the same name as the server
+Credits
+Designers:
+Programmers:
+Researchers:
+Testers:
+All rights reserved
+your king is in JAKE

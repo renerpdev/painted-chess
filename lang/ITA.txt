@@ -1,0 +1,123 @@
+Menu Start - SCACCHI DIPINTI 1.0
+Inserisci tutti i dati di gioco
+Pezzi bianchi
+Pezzi neri
+Caratteristiche della scheda
+Scatole trasparenti:
+Scatole scure:
+nome:
+Colore:
+inizio
+computer
+Non ci possono essere EQUAL COLORS
+Non ci possono essere nomi uguali
+Non ci possono essere CAMPI VUOTI!
+avvertimento
+Mostra possibili mosse
+archivio
+Nuovo gioco
+Salva partita
+Carica gioco
+uscita
+aiutare
+Su di noi
+Tutorial di gioco
+parti
+Pezzi Di Cibo
+Esporta cronologia
+Se lasci il gioco, i dati non salvati andranno persi
+Lasciando il gioco ...
+SCACCHI DIPINTI 1.0
+Storia degli scacchi
+cavallo
+torre
+signora
+fattorino
+re
+vescovo
+Casella minacciata:
+Scatola vuota:
+Scatola selezionata:
+Il gioco è stato salvato con successo
+Il logger è vuoto
+Il caricamento di un gioco cancellerà i dati non salvati da esso.
+Carica nuovo elemento
+Impossibile caricare il file
+errore
+Si è verificato un errore durante il tentativo di salvare il file
+Scegli un pezzo da cambiare
+Re di
+è in JAKE
+Se inizia una nuova partita, i dati non salvati andranno persi
+Game Over
+Entrambi i giocatori hanno solo il re
+Usa le parti originali
+Non ci sono più movimenti possibili
+Gioco da tavolo
+hai perso il gioco
+hai vinto la partita
+Impossibile connettersi
+JAKE MATE
+Nuovo gioco
+Fine del gioco
+Creatore di giochi:
+società:
+E-mail:
+telefono:
+ha il re annegato
+rete
+Unisciti al server
+Crea server
+Carica cronologia
+Impossibile connettersi
+riprodurre
+Jake
+Formato ora errato
+Specificare un'ora di inizio [0 - 90] minuti
+OK colore
+Orario di partenza:
+Tavola rovesciata
+Ora di partenza finita
+multiplayer
+Menu di avvio
+Vai al menu di avvio
+Se si ritorna al menu di avvio, i dati non salvati andranno persi
+Scrivi un nome più breve [1-12]
+Se riavvii il gioco, i dati non salvati andranno persi
+Riavvia il gioco
+pausa
+continuare
+(GIOCA IN PAUSA ...)
+COMPLIMENTI
+FORTUNA FORTUNA
+Sei sicuro di voler partire?
+Server IP:
+connettersi
+IP non corretto
+host:
+Dati di base:
+utente:
+Password:
+port:
+Stato della connessione
+Ti sei iscritto al server
+Il server è stato creato
+Sala d'attesa
+server:
+ospite:
+Non è stato creato alcun gioco su quel server
+Connessione interrotta
+creare
+Se si lascia la connessione andrà persa
+Vuoi ricominciare il gioco?
+Sei sicuro di voler disconnetterti?
+CLIENTE
+SERVER
+Non ho potuto avere lo stesso nome del server
+crediti
+designer:
+programmatori:
+i ricercatori:
+tester:
+Tutti i diritti riservati
+il tuo re è in JAKE

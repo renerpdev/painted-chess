@@ -1,0 +1,123 @@
+Startmenü - GEMALTES SCHACH 1.0
+Füllen Sie alle Spieldaten aus
+Weiße Stücke
+Schwarze Stücke
+Board-Funktionen
+Kästchen löschen:
+Dunkle Kisten:
+Name:
+Farbe:
+Starten Sie
+Computer
+Es kann keine GLEICHEN FARBEN geben
+Es darf KEINE GLEICHEN NAMEN geben
+Es kann keine LEEREN FELDER geben!
+Beachten Sie
+Zeigen Sie mögliche Bewegungen
+Archiv
+Neues Spiel
+Spiel speichern
+Spiel laden
+Ausfahrt
+Hilfe
+Über uns
+Spielanleitung
+Stücke
+Lebensmittelstücke
+Verlauf exportieren
+Wenn Sie das Spiel verlassen, gehen nicht gespeicherte Daten verloren
+Das Spiel verlassen ...
+LACKIERTES SCHACH 1.0
+Schachgeschichte
+Pferd
+Turm
+Dame
+Peon
+König
+Bischof
+Bedrohte Box:
+Leere Schachtel:
+Ausgewählte Box:
+Das Spiel wurde erfolgreich gespeichert
+Der Logger ist leer
+Beim Laden eines Spiels werden nicht gespeicherte Daten gelöscht.
+Laden Sie einen neuen Artikel
+Datei konnte nicht geladen werden
+Fehler
+Beim Versuch, die Datei zu speichern, ist ein Fehler aufgetreten
+Wähle ein Stück zum Ändern
+König von
+ist in JAKE
+Wenn ein neues Spiel gestartet wird, gehen die nicht gespeicherten Daten verloren
+Spiel vorbei
+Beide Spieler haben nur den König
+Verwenden Sie die Originalteile
+Es sind keine Bewegungen mehr möglich
+Brettspiel
+Du hast das Spiel verloren
+Du hast das Spiel gewonnen
+Ich kann keine Verbindung herstellen
+JAKE MATE
+Neues Spiel
+Spielende
+Game Creator:
+Firma:
+E-mail:
+Telefon:
+hat den ertrunkenen König
+Rot
+Server beitreten
+Server erstellen
+Verlauf laden
+Verbindung nicht möglich
+Spielen
+Jake
+Falsches Zeitformat
+Geben Sie eine Startzeit von [0 - 90] Minuten an
+OK Farbe
+Abfahrtszeit:
+Invertierte Platine
+Abfahrtszeit beendet
+Mehrspieler
+Startmenü
+Zum Startmenü gehen
+Wenn Sie zum Startmenü zurückkehren, gehen die nicht gespeicherten Daten verloren
+Schreibe einen kürzeren Namen [1-12]
+Wenn Sie das Spiel neu starten, gehen die nicht gespeicherten Daten verloren
+Spiel neu starten
+Pause
+Weiter
+(IN PAUSE SPIELEN ...)
+HERZLICHEN GLÜCKWUNSCH
+SCHLECHTES GLÜCK
+Bist du sicher, dass du gehen willst?
+IP Server:
+Verbinden
+IP ist falsch
+Gastgeber:
+Datenbank:
+Benutzername:
+Passwort:
+Hafen:
+Verbindungsstatus
+Sie sind dem Server beigetreten
+Der Server wurde erstellt
+Wartezimmer
+Server:
+Gast:
+Auf diesem Server wurde kein Spiel erstellt
+Verbindung unterbrochen
+Erstellen
+Wenn Sie die Verbindung verlassen, geht sie verloren
+Möchten Sie das Spiel erneut starten?
+Möchten Sie die Verbindung wirklich trennen?
+KUNDE
+SERVER
+Ich konnte nicht den gleichen Namen wie der Server haben
+Credits
+Designer:
+Programmierer:
+Forscher:
+Tester:
+Alle rechte vorbehalten
+Dein König ist in JAKE

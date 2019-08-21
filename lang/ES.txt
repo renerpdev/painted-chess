@@ -1,0 +1,123 @@
+Menú de Inicio - PAINTED CHESS 1.0
+Llene todos los datos del juego
+Piezas Blancas
+Piezas Negras
+Características del Tablero
+Casillas Claras:
+Casillas Oscuras:
+Nombre:
+Color:
+Comenzar
+Computador
+No pueden haber COLORES IGUALES
+No pueden haber NOMBRES IGUALES
+No pueden haber CAMPOS VACÍOS!
+Aviso
+Mostrar posibles jugadas
+Archivo
+Nueva Partida
+Guardar Partida
+Cargar Partida
+Salir
+Ayuda
+Acerca de nosotros
+Tutorial del juego
+Piezas
+Piezas Comidas
+Exportar Historia
+Si sale del juego se perderán los datos no salvados
+Saliendo del juego...
+PAINTED CHESS 1.0
+Historia del Ajedrez
+Caballo
+Torre
+Dama
+Peon
+Rey
+Alfil
+Casilla Amenazada:
+Casilla Vacía:
+Casilla Seleccionada:
+La partida se ha guardado con éxito
+El Logger esta vacío
+Cargar una partida borrará los datos no salvados de esta
+Cargar nueva partida
+No se ha podido cargar el archivo
+Error
+Ha ocurrido un error al intentar guardar el archivo
+Escoja una pieza a cambiar
+El rey de
+está en JAKE
+Si empieza una nueva partida se perderán los datos no salvados
+Partida Terminada
+Ambos jugadores tienen solamente el rey
+Usar las piezas originales
+No existen más movimientos posibles
+Juego tabla
+has perdido la partida
+has ganado la partida
+No se puede conectar
+JAKE MATE
+Nuevo Juego
+Fin de la partida
+Creador del juego:
+Compañía:
+E-mail:
+Teléfono:
+tiene el rey ahogado
+Red
+Unirse a servidor
+Crear servidor
+Cargar Historia
+No se puede establecer la conexión
+Reproducir
+Jake
+Formato de hora incorrecto
+Especifique un tiempo de partida [0 - 90] minutos
+OK Color
+Tiempo de partida:
+Tablero invertido
+Tiempo de partida terminado
+Multijugador
+Menú Inicio
+Ir a menú inicio
+Si vuelve al menu inicio se perderán los datos no salvados
+Escribe un nombre más corto [1-12]
+Si reinicia la partida se perderán los datos no salvados
+Reiniciar Partida
+Pausar
+Continuar
+(JUEGO EN PAUSA...)
+FELICIDADES
+MALA SUERTE
+Seguro que quieres salir?
+IP Servidor:
+Conectar
+El IP es incorrecto
+Host:
+Base Datos:
+Usuario:
+Contraseña:
+Puerto:
+Estado de la conexión
+Usted se ha unido al servidor
+El servidor se ha creado
+Sala de espera
+Servidor:
+Invitado:
+No hay una partida creada en ese servidor
+Conexión interrumpida
+Crear
+Si sale se perderá la conexión
+Desea empezar de nuevo la partida?
+Seguro que quieres desconectarte?
+CLIENTE
+SERVIDOR
+No pude tener el mismo nombre que el servidor
+Créditos
+Diseñadores:
+Programadores:
+Investigadores:
+Probadores:
+Todos los derechos reservados
+tu rey esta en JAKE
